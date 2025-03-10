@@ -1,0 +1,5 @@
+{
+  "colors": ["red", "blue", "yellow", "orange" ],
+  "some_text": "Just a plain old string",
+  "another.text": "Another plain old string"
+}
