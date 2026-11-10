@@ -1,0 +1,1414 @@
+[
+  {
+    "id": " `Start After` is where you want S3 to start listing from. S3 starts listing after this specified key. StartAfter can be any key in the bucket.",
+    "translation": " Start After`は、 S3、どこからリストアップを開始したいかを指定する。 S3 は、この指定されたキーの後にリストを開始する。 StartAfter はバケツ内のどのキーでもよい。"
+  },
+  {
+    "id": " and tags: ",
+    "translation": " とタグ： "
+  },
+  {
+    "id": " buckets found in your account:\n",
+    "translation": " あなたのアカウントで見つかったバケット"
+  },
+  {
+    "id": " buckets:",
+    "translation": " バケツだ："
+  },
+  {
+    "id": " delete markers in bucket '",
+    "translation": " バケットのマーカーを削除する"
+  },
+  {
+    "id": " downloaded.",
+    "translation": " をダウンロードした。"
+  },
+  {
+    "id": " multipart uploads in bucket '",
+    "translation": " バケット内のマルチパートアップロード"
+  },
+  {
+    "id": " noncurrentVersionTransitions in bucket lifecycle configuration",
+    "translation": " noncurrentVersionTransitions バケットのライフサイクル設定"
+  },
+  {
+    "id": " object versions in bucket '",
+    "translation": " オブジェクトのバージョンをバケット'"
+  },
+  {
+    "id": " objects in bucket '",
+    "translation": " オブジェクトをバケツ"
+  },
+  {
+    "id": " parts in the multipart upload for '",
+    "translation": " のマルチパート・アップロードのパートは、'"
+  },
+  {
+    "id": " transitions in bucket lifecycle configuration",
+    "translation": " バケットライフサイクル構成の遷移"
+  },
+  {
+    "id": "(`SOURCE`) The name of the source bucket and key name of the source object, separated by a slash (/). Must be URL-encoded.",
+    "translation": "(`SOURCE`) ソースバケツの名前とソースオブジェクトのキー名をスラッシュ (/) で区切って指定する。 URL -encoded でなければならない。"
+  },
+  {
+    "id": "(empty response from server; versioning has never been configured for this bucket)",
+    "translation": "(サーバからの応答は空です。このバケットではバージョン管理が設定されていません)"
+  },
+  {
+    "id": "1 bucket found in your account:\n",
+    "translation": "1 バケツが見つかりました"
+  },
+  {
+    "id": "1 bucket:",
+    "translation": "バケツ1杯："
+  },
+  {
+    "id": "1 delete marker in bucket '",
+    "translation": "バケツに1つの削除マーカー"
+  },
+  {
+    "id": "1 multipart upload in bucket '",
+    "translation": "バケットにマルチパートを1つアップロード"
+  },
+  {
+    "id": "1 noncurrentVersionTransition in bucket lifecycle configuration",
+    "translation": "1 noncurrentVersionTransition バケットのライフサイクル設定"
+  },
+  {
+    "id": "1 object in bucket '",
+    "translation": "バケツに1個"
+  },
+  {
+    "id": "1 object version in bucket '",
+    "translation": "バケツに1つのオブジェクトバージョン"
+  },
+  {
+    "id": "1 part in the multipart upload for '",
+    "translation": "マルチパート・アップロードの1パート"
+  },
+  {
+    "id": "1 transitions in bucket lifecycle configuration",
+    "translation": "バケットのライフサイクル構成における1つのトランジション"
+  },
+  {
+    "id": "A `DELIMITER` is a character you use to group keys.",
+    "translation": "DELIMITER`はキーをグループ化するために使用する文字である。"
+  },
+  {
+    "id": "A `STRUCTURE` using JSON syntax in a file. See IBM Cloud Documentation.",
+    "translation": "ファイル内のJSON構文を使用した`STRUCTURE`。 IBM Cloud ドキュメントを参照。"
+  },
+  {
+    "id": "A `STRUCTURE` using JSON syntax. See IBM Cloud Documentation.",
+    "translation": "JSON構文を使った`STRUCTURE`。 IBM Cloud ドキュメントを参照。"
+  },
+  {
+    "id": "A `STRUCTURE` using either shorthand or JSON syntax. See IBM Cloud Documentation.",
+    "translation": "省略記法またはJSON構文を使用した`STRUCTURE`。 IBM Cloud ドキュメントを参照。"
+  },
+  {
+    "id": "A `Starting Token` to specify where to start paginating. This is the NextContinuationToken from a previously truncated response.",
+    "translation": "ページ分割を開始する場所を指定する `Starting Token`。 これは以前切り捨てた回答の NextContinuationToken。"
+  },
+  {
+    "id": "A bucket with the specified name already exists in your account. Create a bucket with a new name.",
+    "translation": "指定された名前のバケツがすでにアカウントに存在する。 新しい名前でバケツを作成する。"
+  },
+  {
+    "id": "A standard `MIME` type describing the format of the object data.",
+    "translation": "オブジェクトデータのフォーマットを記述する標準の `MIME` タイプ。"
+  },
+  {
+    "id": "A tag-set for the object encoded as URL query parameters (`Key1=Value1`). For `object-tagging-put`, a `STRUCTURE` using JSON syntax. See IBM Cloud Documentation.",
+    "translation": "URL クエリパラメータ ( `Key1=Value1` ) としてエンコードされたオブジェクトのタグセット。object-tagging-put` の場合は、JSON構文を使用した `STRUCTURE` である。 IBM Cloud ドキュメントを参照。"
+  },
+  {
+    "id": "Abort an existing multipart upload",
+    "translation": "既存のマルチパートアップロードを中止する"
+  },
+  {
+    "id": "Abort incomplete multipart upload initiated after, in days: ",
+    "translation": "日数単位で、開始された不完全なマルチパートのアップロードを中止する： "
+  },
+  {
+    "id": "AbortIncompleteMultipartUpload: ",
+    "translation": "AbortIncompleteMultipartUpload: "
+  },
+  {
+    "id": "Access to your IBM Cloud account was denied. Log in again by typing ibmcloud login --sso.",
+    "translation": "IBM Cloud アカウントへのアクセスが拒否されました。 ibmcloud login --sso と入力して再度ログインします。"
+  },
+  {
+    "id": "Are you sure you would like to continue?",
+    "translation": "本当に続けるつもりですか？"
+  },
+  {
+    "id": "Aspera Transferd binary not found. Installing now...",
+    "translation": "Aspera 転送されたバイナリが見つかりません。 今すぐインストール..."
+  },
+  {
+    "id": "Authentication Method",
+    "translation": "認証方法"
+  },
+  {
+    "id": "Authentication `METHOD`.",
+    "translation": "認証 `METHOD`."
+  },
+  {
+    "id": "Bad Flag Syntax in '%s'",
+    "translation": "%s' の悪いフラグ構文"
+  },
+  {
+    "id": "Block Public ACLs: ",
+    "translation": "パブリックACLをブロックする： "
+  },
+  {
+    "id": "Bucket '{{.Bucket}}' in region {{.region}} found in your IBM Cloud Object Storage account.",
+    "translation": "IBM Cloud Object Storage アカウントで、地域 {{.region}} のバケット '{{.Bucket}}' が見つかりました。"
+  },
+  {
+    "id": "CRN",
+    "translation": "CRN"
+  },
+  {
+    "id": "Change plugin configuration",
+    "translation": "プラグインの設定を変更する"
+  },
+  {
+    "id": "Class: ",
+    "translation": "クラス： "
+  },
+  {
+    "id": "Clear the option value.",
+    "translation": "オプション値をクリアする。"
+  },
+  {
+    "id": "Command does not support Flag '--%s'",
+    "translation": "コマンドはフラグ '--%s' をサポートしていません"
+  },
+  {
+    "id": "Common Prefixes:",
+    "translation": "一般的な接頭辞："
+  },
+  {
+    "id": "Complete an existing multipart upload",
+    "translation": "既存のマルチパート・アップロードを完了する"
+  },
+  {
+    "id": "Copies the object if it has been modified since the specified time (`TIMESTAMP`).",
+    "translation": "指定した時間 (`TIMESTAMP`) 以降に変更されたオブジェクトをコピーする。"
+  },
+  {
+    "id": "Copies the object if it hasn't been modified since the specified time (`TIMESTAMP`).",
+    "translation": "指定した時間 (`TIMESTAMP`) 以降にオブジェクトが変更されていなければ、そのオブジェクトをコピーする。"
+  },
+  {
+    "id": "Copies the object if its entity tag (ETag) is different than the specified tag (`ETAG`).",
+    "translation": "オブジェクトのエンティティタグ (ETag) が指定したタグ (`ETAG`) と異なる場合に、オブジェクトをコピーする。"
+  },
+  {
+    "id": "Copies the object if its entity tag (Etag) matches the specified tag (`ETAG`).",
+    "translation": "オブジェクトのエンティティタグ (Etag) が指定されたタグ (`ETAG`) と一致する場合にオブジェクトをコピーする。"
+  },
+  {
+    "id": "Copy Source Version ID: ",
+    "translation": "コピー元バージョンID： "
+  },
+  {
+    "id": "Copy an object from one bucket to another",
+    "translation": "あるバケツから別のバケツへオブジェクトをコピーする"
+  },
+  {
+    "id": "Create a new bucket",
+    "translation": "新しいバケツを作る"
+  },
+  {
+    "id": "Creation Date (UTC)",
+    "translation": "作成日（UTC）"
+  },
+  {
+    "id": "Creation Template ID",
+    "translation": "作成テンプレートID"
+  },
+  {
+    "id": "Date Created (UTC)",
+    "translation": "作成日（UTC）"
+  },
+  {
+    "id": "Default Region",
+    "translation": "デフォルト地域"
+  },
+  {
+    "id": "Delete '{{.Key}}' from bucket '{{.Bucket}}' ran successfully.",
+    "translation": "バケツ '{{.Bucket}}' から '{{.Key}}' の削除が正常に実行されました。"
+  },
+  {
+    "id": "Delete '{{.Key}}' from bucket '{{.Bucket}}' with version ID '{{.VersionId}}' ran successfully.",
+    "translation": "バージョンID '{{.VersionId}}' のバケツ '{{.Bucket}}' から '{{.Key}}' の削除が正常に実行されました。"
+  },
+  {
+    "id": "Delete an existing bucket",
+    "translation": "既存のバケツを削除する"
+  },
+  {
+    "id": "Delete an object from a bucket",
+    "translation": "バケツからオブジェクトを削除する"
+  },
+  {
+    "id": "Delete marker created for '{{.Key}}' from bucket '{{.Bucket}}'.",
+    "translation": "バケツ '{{.Bucket}}' から '{{.Key}}' に作成されたマーカーを削除。"
+  },
+  {
+    "id": "Delete marker version ID: ",
+    "translation": "マーカーのバージョン ID を削除する： "
+  },
+  {
+    "id": "Delete multiple objects from a bucket",
+    "translation": "バケツから複数のオブジェクトを削除する"
+  },
+  {
+    "id": "Delete multiple objects from bucket '{{.Bucket}}' ran successfully.",
+    "translation": "バケツ '{{.Bucket}}' から複数のオブジェクトの削除が正常に実行されました。"
+  },
+  {
+    "id": "Delete the CORS configuration from a bucket",
+    "translation": "バケットからCORS設定を削除する"
+  },
+  {
+    "id": "Delete the lifecycle configuration from a bucket",
+    "translation": "バケツからライフサイクル設定を削除する"
+  },
+  {
+    "id": "Delete the replication configuration from a bucket",
+    "translation": "バケツからレプリケーション設定を削除する"
+  },
+  {
+    "id": "Destination bucket: ",
+    "translation": "目的地のバケット "
+  },
+  {
+    "id": "Details about bucket ",
+    "translation": "バケットの詳細 "
+  },
+  {
+    "id": "Details about your multipart upload instance:",
+    "translation": "マルチパートアップロードインスタンスの詳細："
+  },
+  {
+    "id": "Determine if a specified bucket exists in the target region",
+    "translation": "指定されたバケツが対象地域に存在するかどうかを判断する"
+  },
+  {
+    "id": "Download Location",
+    "translation": "ダウンロード・ロケーション"
+  },
+  {
+    "id": "Download an object from a bucket",
+    "translation": "バケツからオブジェクトをダウンロードする"
+  },
+  {
+    "id": "Download an object using a managed multipart transfer",
+    "translation": "マネージド・マルチパート転送を使ったオブジェクトのダウンロード"
+  },
+  {
+    "id": "Download objects via Aspera",
+    "translation": "オブジェクトのダウンロード Aspera"
+  },
+  {
+    "id": "Downloads the specified `RANGE` bytes of an object. For more information about the HTTP Range header, go to http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.35.",
+    "translation": "オブジェクトの `RANGE` バイトをダウンロードする。 HTTP レンジヘッダーについての詳細は、 http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.35 を参照。"
+  },
+  {
+    "id": "ETag",
+    "translation": "イータグ"
+  },
+  {
+    "id": "Empty",
+    "translation": "空"
+  },
+  {
+    "id": "Error Document: ",
+    "translation": "エラー文書： "
+  },
+  {
+    "id": "Error opening '{{.Location}}' to write.",
+    "translation": "書き込みのために '{{.Location}}' を開くのにエラーが発生しました。"
+  },
+  {
+    "id": "Expiration by date (UTC): ",
+    "translation": "日付による有効期限（UTC）： "
+  },
+  {
+    "id": "Expiration in days: ",
+    "translation": "有効期限は数日： "
+  },
+  {
+    "id": "Expiration: ",
+    "translation": "期限切れ: "
+  },
+  {
+    "id": "Filter by And operator: ",
+    "translation": "And演算子で絞り込む： "
+  },
+  {
+    "id": "Filter by prefix: ",
+    "translation": "接頭辞で絞り込む： "
+  },
+  {
+    "id": "Filter by tag: ",
+    "translation": "タグで絞り込む "
+  },
+  {
+    "id": "Filter by tags: ",
+    "translation": "タグで絞り込む "
+  },
+  {
+    "id": "Filter object with Size less than: ",
+    "translation": "サイズ以下のオブジェクトをフィルタリングする： "
+  },
+  {
+    "id": "Filter object with size greater than: ",
+    "translation": "より大きいサイズのオブジェクトをフィルタリングする： "
+  },
+  {
+    "id": "Filter: ",
+    "translation": "フィルター: "
+  },
+  {
+    "id": "Flag '--%s' requires a value",
+    "translation": "フラグ '--%s' は値を必要とする"
+  },
+  {
+    "id": "Found ",
+    "translation": "検索結果 "
+  },
+  {
+    "id": "Get an object's size and last modified date",
+    "translation": "オブジェクトのサイズと最終更新日時を取得する"
+  },
+  {
+    "id": "Get legal hold for a object",
+    "translation": "オブジェクトの合法的なホールドを取得する"
+  },
+  {
+    "id": "Get retention on a object ",
+    "translation": "オブジェクトの保持を取得する "
+  },
+  {
+    "id": "Get tags for an object",
+    "translation": "オブジェクトのタグを取得する"
+  },
+  {
+    "id": "Get the CORS configuration for a bucket",
+    "translation": "バケットのCORS設定を取得する"
+  },
+  {
+    "id": "Get the lifecycle configuration for a bucket",
+    "translation": "バケツのライフサイクル設定を取得する"
+  },
+  {
+    "id": "Get the location and billing tier of a bucket",
+    "translation": "バケツの場所と課金階層を取得する"
+  },
+  {
+    "id": "Get the object lock configuration for a bucket",
+    "translation": "バケツのオブジェクトロック設定を取得する"
+  },
+  {
+    "id": "Get the public access block configuration on a bucket",
+    "translation": "バケツのパブリックアクセスブロックの設定を取得する"
+  },
+  {
+    "id": "Get the replication configuration for a bucket",
+    "translation": "バケットのレプリケーション設定を取得する"
+  },
+  {
+    "id": "Get the static website configuration on a bucket",
+    "translation": "バケット上の静的ウェブサイト設定を取得する"
+  },
+  {
+    "id": "Get the versioning configuration for a bucket",
+    "translation": "バケツのバージョン管理設定を取得する"
+  },
+  {
+    "id": "ID: ",
+    "translation": "ID: "
+  },
+  {
+    "id": "If a bucket is configured as a website, redirects requests for the object key to another object in the same bucket or to a URL (`LOCATION`).",
+    "translation": "バケツがウェブサイトとして設定されている場合、オブジェクトキーに対するリクエストを同じバケツ内の別のオブジェクトか URL (`LOCATION`) にリダイレクトします。"
+  },
+  {
+    "id": "Ignore Public ACLs: ",
+    "translation": "パブリックACLを無視する： "
+  },
+  {
+    "id": "Index Suffix: ",
+    "translation": "インデックスの接尾辞： "
+  },
+  {
+    "id": "Initiate a new multipart upload",
+    "translation": "新しいマルチパートのアップロードを開始する"
+  },
+  {
+    "id": "Initiated (UTC)",
+    "translation": "開始 (UTC)"
+  },
+  {
+    "id": "Interact with IBM Cloud Object Storage services",
+    "translation": "IBM Cloud Object Storage サービスとの連携"
+  },
+  {
+    "id": "A valid Service Instance ID / CRN must be configured to create or list buckets.\nIf the Service Instance has not been created already, create it using CLI: ‘ibmcloud resource service-instance-create <instance-name> cloud-object-storage <plan> <location>’.\nAlternatively, you can create it using the IBM Cloud UI: https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-provision#provision-instance.\nGet the CRN using: ‘ibmcloud resource service-instance <instance-name> --crn’.\nConfigure the CRN using: ‘ibmcloud cos config crn --crn <crn-value>’.\nVerify the Service Instance ID / CRN using: ‘ibmcloud cos config list’.",
+    "translation": "buckets.\nIf サービスインスタンスがまだ作成されていない場合は、CLI を使用して作成します： 'ibmcloud resource service-instance-create <instance-name> cloud-object-storage <plan> <location>’.\nAlternatively, IBM Cloud UI を使用して作成することもできます： https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-provision#provision-instance.\nGet CRN を使用します：'ibmcloud resource service-instance <instance-name> --crn’.\nConfigure CRN を使用します：'ibmcloud cos config crn --crn <crn-value>’.\nVerify サービスインスタンス ID / CRN を使用します：ibmcloud cos config list'を使用する。"
+  },
+  {
+    "id": "Invalid boolean flag '--%s'",
+    "translation": "無効なブーリアン・フラグ '--%s'"
+  },
+  {
+    "id": "Invalid boolean value in Flag '--%s'",
+    "translation": "フラグ '--%s' のブール値が無効です"
+  },
+  {
+    "id": "Is Latest",
+    "translation": "最新情報"
+  },
+  {
+    "id": "It was last updated on {{.lastupdated}}.",
+    "translation": "最終更新日は {{.lastupdated}}。"
+  },
+  {
+    "id": "Key",
+    "translation": "キー"
+  },
+  {
+    "id": "Key Marker: ",
+    "translation": "キーマーカー "
+  },
+  {
+    "id": "Last Modified (UTC)",
+    "translation": "最終更新日 (UTC)"
+  },
+  {
+    "id": "Last Modified (UTC): {{.lastmodified}}",
+    "translation": "最終更新日 (UTC)： {{.lastmodified}}"
+  },
+  {
+    "id": "Last Updated",
+    "translation": "最終更新"
+  },
+  {
+    "id": "Legal Hold Status: ",
+    "translation": "法的保留状態： "
+  },
+  {
+    "id": "Lifecycle Configuration",
+    "translation": "ライフサイクル構成"
+  },
+  {
+    "id": "Limits the response to keys that begin with the specified `PREFIX`.",
+    "translation": "指定した `PREFIX` で始まるキーに限定する。"
+  },
+  {
+    "id": "List active multipart uploads",
+    "translation": "アクティブなマルチパートのアップロードを一覧表示"
+  },
+  {
+    "id": "List all buckets in a service instance",
+    "translation": "サービスインスタンス内のすべてのバケットを一覧表示する"
+  },
+  {
+    "id": "List all buckets in a service instance and their provisioning codes",
+    "translation": "サービスインスタンス内のすべてのバケットとそのプロビジョニングコードを一覧表示します"
+  },
+  {
+    "id": "List all object versions in a specific bucket",
+    "translation": "特定のバケツにあるすべてのオブジェクトのバージョンをリストする"
+  },
+  {
+    "id": "List all objects in a specific bucket",
+    "translation": "特定のバケツ内のすべてのオブジェクトをリストする"
+  },
+  {
+    "id": "List configuration",
+    "translation": "リスト構成"
+  },
+  {
+    "id": "List configuration values.",
+    "translation": "設定値をリストアップする。"
+  },
+  {
+    "id": "List parts of an active multipart upload",
+    "translation": "アクティブなマルチパートアップロードのパートを一覧表示する"
+  },
+  {
+    "id": "Location Constraint",
+    "translation": "場所の制約"
+  },
+  {
+    "id": "Mandatory Flag '--%s' is missing",
+    "translation": "必須フラグ '--%s' が見つからない"
+  },
+  {
+    "id": "Max number of `PARTS` which will be uploaded to S3 that calculates the part size of the object to be uploaded.  Limit is 10,000 parts.",
+    "translation": "アップロードされるオブジェクトのパーツサイズを計算する S3 にアップロードされる `PARTS` の最大数。  部品点数は10,000点まで。"
+  },
+  {
+    "id": "Mode: ",
+    "translation": "モードだ： "
+  },
+  {
+    "id": "Name",
+    "translation": "名前"
+  },
+  {
+    "id": "Newer noncurrent versions",
+    "translation": "新しい非現行バージョン"
+  },
+  {
+    "id": "No buckets found in your account.",
+    "translation": "アカウントにバケットが見つかりません。"
+  },
+  {
+    "id": "No lifecycle configuration rules returned",
+    "translation": "ライフサイクル構成ルールが返されない"
+  },
+  {
+    "id": "No tags returned",
+    "translation": "タグは返却されない"
+  },
+  {
+    "id": "NoncurrentVersionExpiration by newer noncurrent versions: ",
+    "translation": "NoncurrentVersionExpiration より新しい非現行バージョンによって： "
+  },
+  {
+    "id": "NoncurrentVersionExpiration by noncurrent days: ",
+    "translation": "NoncurrentVersionExpiration 非流動日数による "
+  },
+  {
+    "id": "NoncurrentVersionExpiration: ",
+    "translation": "NoncurrentVersionExpiration: "
+  },
+  {
+    "id": "Object '{{.Key}}' was found in bucket '{{.Bucket}}'.",
+    "translation": "オブジェクト '{{.Key}}' がバケツ '{{.Bucket}}' に見つかりました。"
+  },
+  {
+    "id": "Object Lock Configuration",
+    "translation": "オブジェクト・ロックの設定"
+  },
+  {
+    "id": "Object Lock Status: ",
+    "translation": "オブジェクトのロック状態： "
+  },
+  {
+    "id": "Object Size",
+    "translation": "オブジェクト・サイズ"
+  },
+  {
+    "id": "Object Size: {{.objectsize}}",
+    "translation": "オブジェクトのサイズ： {{.objectsize}}"
+  },
+  {
+    "id": "Object data location (`FILE_PATH`).",
+    "translation": "オブジェクトデータの場所 (`FILE_PATH`)."
+  },
+  {
+    "id": "ObjectSizeGreaterThan: ",
+    "translation": "ObjectSizeGreaterThan: "
+  },
+  {
+    "id": "ObjectSizeLessThan: ",
+    "translation": "ObjectSizeLessThan: "
+  },
+  {
+    "id": "Operation canceled.",
+    "translation": "作戦中止。"
+  },
+  {
+    "id": "Output `FORMAT` can be only json or text.",
+    "translation": "出力 `FORMAT` には json か text しか指定できない。"
+  },
+  {
+    "id": "Override the default location providing an OUTFILE parameter",
+    "translation": "OUTFILEパラメータでデフォルトの場所を上書きする"
+  },
+  {
+    "id": "Part Number",
+    "translation": "部品番号"
+  },
+  {
+    "id": "Part `NUMBER` of part being uploaded. This is a positive integer between 1 and 10,000.",
+    "translation": "アップロードされるパートの `NUMBER`. これは1〜10,000の正の整数である。"
+  },
+  {
+    "id": "Part number `VALUE` after which listing begins",
+    "translation": "品番 `VALUE` の後にリストが始まる"
+  },
+  {
+    "id": "Poll an API until a particular condition is satisfied",
+    "translation": "特定の条件が満たされるまでAPIをポーリングする"
+  },
+  {
+    "id": "Prefix: ",
+    "translation": "接頭語: "
+  },
+  {
+    "id": "Priority: ",
+    "translation": "優先順位: "
+  },
+  {
+    "id": "Public Access Block Configuration",
+    "translation": "パブリック・アクセス・ブロックの構成"
+  },
+  {
+    "id": "Redirect Hostname: ",
+    "translation": "リダイレクトホスト名： "
+  },
+  {
+    "id": "Redirect Protocol: ",
+    "translation": "リダイレクト・プロトコル： "
+  },
+  {
+    "id": "Region: ",
+    "translation": "リージョン: "
+  },
+  {
+    "id": "Regions endpoint `URL`.",
+    "translation": "リージョン・エンドポイント ` URL `."
+  },
+  {
+    "id": "Remove delete markers on expired objects: ",
+    "translation": "期限切れオブジェクトの削除マーカーを削除する： "
+  },
+  {
+    "id": "Remove public access block configuration from a bucket",
+    "translation": "バケツからパブリックアクセスブロックの設定を削除する"
+  },
+  {
+    "id": "Remove static website configuration from a bucket",
+    "translation": "バケツから静的ウェブサイト設定を削除する"
+  },
+  {
+    "id": "Remove tags from an object",
+    "translation": "オブジェクトからタグを削除する"
+  },
+  {
+    "id": "Replication Configuration",
+    "translation": "レプリケーション設定"
+  },
+  {
+    "id": "Requests to encode the object keys in the response and specifies the encoding `METHOD` to use.",
+    "translation": "レスポンス中のオブジェクトキーのエンコードを要求し、使用するエンコード `METHOD` を指定する。"
+  },
+  {
+    "id": "Retain Until Date (UTC): ",
+    "translation": "日付（UTC）まで保持： "
+  },
+  {
+    "id": "Retention",
+    "translation": "保管"
+  },
+  {
+    "id": "Retention Mode: ",
+    "translation": "保持モード： "
+  },
+  {
+    "id": "Retention Period: ",
+    "translation": "保存期間： "
+  },
+  {
+    "id": "Return the object only if it has been modified since the specified `TIMESTAMP`, otherwise return a 304 (not modified).",
+    "translation": "指定した `TIMESTAMP` 以降にオブジェクトが変更された場合のみオブジェクトを返し、そうでない場合は 304（変更されていない）を返す。"
+  },
+  {
+    "id": "Return the object only if it has not been modified since the specified `TIMESTAMP`, otherwise return a 412 (precondition failed).",
+    "translation": "指定した `TIMESTAMP` 以降にオブジェクトが変更されていない場合にのみオブジェクトを返し、そうでない場合は 412 を返す（前提条件に失敗）。"
+  },
+  {
+    "id": "Return the object only if its entity tag (ETag) is different from the `ETAG` specified, otherwise return a 304 (not modified).",
+    "translation": "エンティティタグ(ETag)が指定した `ETAG` と異なる場合のみオブジェクトを返し、そうでない場合は304（変更されていない）を返す。"
+  },
+  {
+    "id": "Return the object only if its entity tag (ETag) is the same as the `ETAG` specified, otherwise return a 412 (precondition failed).",
+    "translation": "オブジェクトのエンティティタグ (ETag) が指定された `ETAG` と同じ場合のみオブジェクトを返し、そうでない場合は 412 を返す (前提条件失敗)。"
+  },
+  {
+    "id": "Saving default download location...",
+    "translation": "デフォルトのダウンロード場所を保存..."
+  },
+  {
+    "id": "Saving new Service Instance ID / CRN...",
+    "translation": "新しいサービスインスタンスID/CRNの保存..."
+  },
+  {
+    "id": "Service Endpoint",
+    "translation": "サービス・エンドポイント"
+  },
+  {
+    "id": "Set custom Service Endpoint for all operations",
+    "translation": "すべての操作にカスタム・サービス・エンドポイントを設定する"
+  },
+  {
+    "id": "Set public access block configuration on a bucket",
+    "translation": "バケットにパブリックアクセスブロックの設定を行う"
+  },
+  {
+    "id": "Set regions endpoint URL",
+    "translation": "リージョン・エンドポイントの設定 URL"
+  },
+  {
+    "id": "Set retention on a object",
+    "translation": "オブジェクトに保持を設定する"
+  },
+  {
+    "id": "Set static website configuration on a bucket",
+    "translation": "バケットに静的ウェブサイト設定を設定する"
+  },
+  {
+    "id": "Set tags on an object",
+    "translation": "オブジェクトにタグを設定する"
+  },
+  {
+    "id": "Set the CORS configuration on a bucket",
+    "translation": "バケットにCORS設定を行う"
+  },
+  {
+    "id": "Set the default location for downloads.",
+    "translation": "ダウンロードのデフォルトの場所を設定します。"
+  },
+  {
+    "id": "Set the legal hold on a object",
+    "translation": "オブジェクトの法的ホールドを設定する"
+  },
+  {
+    "id": "Set the lifecycle configuration on a bucket",
+    "translation": "バケツにライフサイクル設定を行う"
+  },
+  {
+    "id": "Set the object lock configuration on a bucket",
+    "translation": "バケツにオブジェクトロックの設定をする"
+  },
+  {
+    "id": "Set the replication configuration on a bucket",
+    "translation": "バケットにレプリケーション設定を行う"
+  },
+  {
+    "id": "Set the versioning configuration on a bucket",
+    "translation": "バケツにバージョニング設定をする"
+  },
+  {
+    "id": "Sets the Cache-Control `HEADER` of the response.",
+    "translation": "レスポンスの Cache-Control `HEADER` を設定する。"
+  },
+  {
+    "id": "Sets the Content-Disposition `HEADER` of the response.",
+    "translation": "レスポンスの Content-Disposition `HEADER` を設定する。"
+  },
+  {
+    "id": "Sets the Content-Encoding `HEADER` of the response.",
+    "translation": "レスポンスのContent-Encoding `HEADER` を設定する。"
+  },
+  {
+    "id": "Sets the Content-Language `HEADER` of the response.",
+    "translation": "レスポンスの Content-Language `HEADER` を設定する。"
+  },
+  {
+    "id": "Sets the Content-Type `HEADER` of the response.",
+    "translation": "レスポンスの Content-Type `HEADER` を設定する。"
+  },
+  {
+    "id": "Sets the Expires `HEADER` of the response.",
+    "translation": "レスポンスの Expires `HEADER` を設定する。"
+  },
+  {
+    "id": "Sets the IBM Service Instance `ID` / CRN in the request.",
+    "translation": "リクエストの IBM Service Instance `ID` / CRN を設定する。"
+  },
+  {
+    "id": "Setting this value to true will cause the SDK to avoid calling AbortMultipartUpload on a failure, leaving all successfully uploaded parts on S3 for manual recovery.",
+    "translation": "この値をtrueに設定すると、SDKは失敗時に AbortMultipartUpload を呼び出さないようになり、正常にアップロードされた部品はすべて S3、手動で復旧できるようになる。"
+  },
+  {
+    "id": "Size",
+    "translation": "サイズ"
+  },
+  {
+    "id": "Specifies `CACHING_DIRECTIVES` for the request/reply chain.",
+    "translation": "リクエスト/レスポンスチェーンに `CACHING_DIRECTIVES` を指定する。"
+  },
+  {
+    "id": "Specifies presentational information (`DIRECTIVES`).",
+    "translation": "提示情報(`DIRECTIVES`)を指定する。"
+  },
+  {
+    "id": "Specifies the `KEY` (OBJECT_NAME) to start with when listing objects in a bucket.",
+    "translation": "バケツ内のオブジェクトをリストアップする際に、`KEY` (OBJECT_NAME) から開始するように指定します。"
+  },
+  {
+    "id": "Specifies what content encodings (`CONTENT_ENCODING`) have been applied to the object and thus what decoding mechanisms must be applied to obtain the media-type referenced by the Content-Type header field.",
+    "translation": "どのようなコンテントエンコーディング(`CONTENT_ENCODING`)がオブジェクト に適用されたかを指定する。したがって、Content-Typeヘッダーフィー ルドで参照されるメディアタイプを取得するために、どのようなデコード機 構を適用しなければならないかを指定する。"
+  },
+  {
+    "id": "Specifies whether the metadata is copied from the source object or replaced with metadata provided in the request. `DIRECTIVE` values: COPY, REPLACE.",
+    "translation": "メタデータをソースオブジェクトからコピーするか、リクエストで提供されたメタデータで置き換えるかを指定します。DIRECTIVE` 値を指定します：COPY、REPLACE。"
+  },
+  {
+    "id": "Specifies whether to copy the tag-set from the source object or replace it with the tag-set provided",
+    "translation": "ソースオブジェクトからタグセットをコピーするか、提供されたタグセットで置き換えるかを指定します"
+  },
+  {
+    "id": "Status: ",
+    "translation": "状況: "
+  },
+  {
+    "id": "Store Service Instance ID / CRN in the config",
+    "translation": "コンフィグにサービスインスタンスID/CRNを保存する"
+  },
+  {
+    "id": "Store Default Download Location in the config",
+    "translation": "デフォルトのダウンロード先を設定に保存する"
+  },
+  {
+    "id": "Store Default Region in the config",
+    "translation": "デフォルトのリージョンをコンフィグに保存する"
+  },
+  {
+    "id": "Store HMAC credentials in the config",
+    "translation": "HMAC認証情報をコンフィグに保存する"
+  },
+  {
+    "id": "Store your Service Instance ID / `CRN` in the config.",
+    "translation": "サービスインスタンスID / `CRN` をコンフィグに保存する。"
+  },
+  {
+    "id": "Successfully aborted a multipart upload instance with key '{{.Key}}' and bucket '{{.Bucket}}'.",
+    "translation": "キー '{{.Key}}' およびバケット '{{.Bucket}}' を持つマルチパートアップロードインスタンスの中断に成功しました。"
+  },
+  {
+    "id": "Successfully cleared regions endpoint URL.",
+    "translation": "URL。"
+  },
+  {
+    "id": "Successfully cleared service endpoint URL",
+    "translation": "サービス・エンドポイントのクリアに成功 URL"
+  },
+  {
+    "id": "Successfully copied '{{.Object}}' from bucket '{{.bucket1}}' to bucket '{{.bucket2}}'.",
+    "translation": "{{.Object}}' をバケツ '{{.bucket1}}' からバケツ '{{.bucket2}}' に正常にコピーしました。"
+  },
+  {
+    "id": "Successfully deleted CORS configuration on bucket: {{.Bucket}}",
+    "translation": "バケット上のCORS設定の削除に成功しました： {{.Bucket}}"
+  },
+  {
+    "id": "Successfully deleted bucket '{{.Bucket}}'. The bucket '{{.Bucket}}' will be available for reuse after 15 minutes.",
+    "translation": "バケツ '{{.Bucket}}' の削除に成功しました。 バケツ '{{.Bucket}}' は15分後に再利用可能になる。"
+  },
+  {
+    "id": "Successfully downloaded '{{.Key}}' from bucket '{{.Bucket}}'",
+    "translation": "バケツ '{{.Bucket}}' から '{{.Key}}' のダウンロードに成功した"
+  },
+  {
+    "id": "Successfully saved HMAC Credentials to file.",
+    "translation": "HMAC 資格情報のファイルへの保存に成功しました。"
+  },
+  {
+    "id": "Successfully saved S3 {{.Style}} style hosting option. CLI calls will use {{.Style}} style requests.",
+    "translation": "S3 {{.Style}} スタイルホスティングオプションの保存に成功。 CLIコールは {{.Style}} スタイルのリクエストを使用する。"
+  },
+  {
+    "id": "Successfully saved default region. The program will look for buckets in the region {{.region}}.",
+    "translation": "デフォルト地域の保存に成功した。 プログラムは {{.region}} の領域にあるバケツを探す。"
+  },
+  {
+    "id": "Successfully saved download location. New files will be downloaded to '",
+    "translation": "ダウンロード先の保存に成功しました。 新しいファイルは'"
+  },
+  {
+    "id": "Successfully set CORS configuration on bucket: {{.Bucket}}",
+    "translation": "バケットにCORS設定が成功しました： {{.Bucket}}"
+  },
+  {
+    "id": "Successfully stored your Service Instance ID / CRN.",
+    "translation": "サービスインスタンスID/CRNの保存に成功しました。"
+  },
+  {
+    "id": "Select the Service Instance ID / CRN",
+    "translation": "サービスインスタンスID / CRNを選択"
+  },
+  {
+    "id": "Service Instance ID / CRN:",
+    "translation": "サービスインスタンスID / CRN："
+  },
+  {
+    "id": "Unable to store Service Instance ID / CRN.",
+    "translation": "サービスインスタンスID/CRNを保存できません。"
+  },
+  {
+    "id": "Successfully switched to {{.Auth}}-based authentication. The program will access your Cloud Object Storage account using your {{.Auth}} Credentials.",
+    "translation": "{{.Auth}} ベースの認証への切り替えに成功。 プログラムは {{.Auth}} 認証情報を使用して Cloud Object Storage アカウントにアクセスします。"
+  },
+  {
+    "id": "Successfully updated regions endpoint URL to {{.URL}}.",
+    "translation": "URL から {{.URL}} への地域エンドポイントの更新に成功した。"
+  },
+  {
+    "id": "Successfully updated service endpoint URL.",
+    "translation": "サービス・エンドポイント URL の更新に成功した。"
+  },
+  {
+    "id": "Successfully uploaded '{{.Key}}' to bucket '{{.Bucket}}'.",
+    "translation": "{{.Key}}' をバケツ '{{.Bucket}}' に正常にアップロードしました。"
+  },
+  {
+    "id": "Successfully uploaded object '{{.Key}}' to bucket '{{.Bucket}}'.",
+    "translation": "オブジェクト '{{.Key}}' をバケット '{{.Bucket}}' に正常にアップロードしました。"
+  },
+  {
+    "id": "Switch between HMAC and IAM authentication",
+    "translation": "HMAC認証とIAM認証の切り替え"
+  },
+  {
+    "id": "Switch between VHost and Path URL style",
+    "translation": "VHostとPathの切り替え URL スタイル"
+  },
+  {
+    "id": "Tags: ",
+    "translation": "タグ: "
+  },
+  {
+    "id": "The CORS configuration of ",
+    "translation": "のCORSコンフィギュレーションは "
+  },
+  {
+    "id": "The `ALGORITHM` and `SIZE` to use with the encryption key stored by using key protect.",
+    "translation": "キープロテクトを使用して保存された暗号化キーに使用する `ALGORITHM` と `SIZE` を指定する。"
+  },
+  {
+    "id": "The `Boolean` is not present in listV2 by default, if you want to return owner field with each key in the result then set the fetch owner field to true.",
+    "translation": "デフォルトでは、 listV2 に `Boolean` は存在しない。結果の各キーでオーナー・フィールドを返したい場合は、fetch owner field を true に設定する。"
+  },
+  {
+    "id": "The `CUSTOMERROOTKEYCRN` of the KMS  root key associated with the bucket for data encryption.",
+    "translation": "データを暗号化するためにバケツに関連付けられた KMS ルートキーの `CUSTOMERROOTKEYCRN`。"
+  },
+  {
+    "id": "The `KEY` (OBJECT_NAME) of the object.",
+    "translation": "オブジェクトの `KEY` (OBJECT_NAME)."
+  },
+  {
+    "id": "The `LANGUAGE` the content is in.",
+    "translation": "コンテンツが使用されている `LANGUAGE`。"
+  },
+  {
+    "id": "The `PATH` to the file to upload.",
+    "translation": "アップロードするファイルの `PATH` を指定する。"
+  },
+  {
+    "id": "The `REGION` where the bucket is present. If this flag is not provided, the program will use the default option specified in config.",
+    "translation": "バケツが存在する `REGION` を指定する。 このフラグが与えられていない場合、プログラムはconfigで指定されたデフォルトのオプションを使用する。"
+  },
+  {
+    "id": "The `SIZE` of each page to get in the service call. This does not affect the number of items returned in the command's output. Setting a smaller page size results in more calls to the COS service, retrieving fewer items in each call. This can help prevent the service calls from timing out.",
+    "translation": "サービスコールで取得する各ページの`SIZE`。 これは、コマンドの出力で返される項目の数には影響しない。 ページサイズを小さく設定すると、COSサービスをより多く呼び出すことになり、各呼び出しで取得される項目は少なくなる。 これにより、サービスコールのタイムアウトを防ぐことができる。"
+  },
+  {
+    "id": "The base64-encoded 128-bit `MD5` digest of the data.",
+    "translation": "データの base64-encoded 128ビット `MD5` ダイジェスト。"
+  },
+  {
+    "id": "The buffer `SIZE` (in bytes) to use when buffering data into chunks and ending them as parts to S3. The minimum allowed part size is 5MB.",
+    "translation": "データをチャンクに分けてバッファリングし、 S3 にパーツとして渡すときに使用するバッファ `SIZE` (バイト数)。 最小許容部品サイズは 5MB です。"
+  },
+  {
+    "id": "The download destination '{{.Location}}' is a directory.",
+    "translation": "ダウンロード先 '{{.Location}}' はディレクトリである。"
+  },
+  {
+    "id": "The lifecycle configuration was not found",
+    "translation": "ライフサイクル設定が見つかりません"
+  },
+  {
+    "id": "The name (`BUCKET_NAME`) of the bucket.",
+    "translation": "バケツの名前 (`BUCKET_NAME`)。"
+  },
+  {
+    "id": "The name (`CLASS_NAME`) of the Class.",
+    "translation": "クラスの名前 (`CLASS_NAME`)。"
+  },
+  {
+    "id": "The number of goroutines to spin up in parallel per call to Upload when sending parts. Default value is 5.",
+    "translation": "パーツ送信時にUploadを呼び出すごとに並列にスピンアップするゴルーチンの数。 デフォルト値は5。"
+  },
+  {
+    "id": "The object version identifier",
+    "translation": "オブジェクトのバージョン識別子"
+  },
+  {
+    "id": "The public access block configuration was not found.",
+    "translation": "パブリック・アクセス・ブロックの設定が見つかりませんでした。"
+  },
+  {
+    "id": "The range of bytes to copy from the source object. The range value must use the form bytes=first-last, where the first and last are the zero-based byte offsets to copy. For example, bytes=0-9 indicates that you want to copy the first ten bytes of the source. You can copy a range only if the source object is greater than 5 MB.",
+    "translation": "コピー元オブジェクトからコピーするバイトの範囲。 範囲値は、bytes=first-lastの形式で指定しなければならない。ここで、最初と最後は、コピーするゼロベースのバイトオフセットである。 例えば、 bytes=0-9 は、ソースの最初の10バイトをコピーしたいことを示す。 範囲をコピーできるのは、コピー元のオブジェクトが5 MBを超える場合のみです。"
+  },
+  {
+    "id": "The replication configuration was not found",
+    "translation": "レプリケーション設定が見つかりません"
+  },
+  {
+    "id": "The requested bucket name is not available. The bucket namespace is shared by all users of the system. Select a different name and try again.",
+    "translation": "要求されたバケット名は利用できません。 バケットの名前空間は、システムのすべてのユーザーによって共有される。 別の名前を選択して、もう一度試してください。"
+  },
+  {
+    "id": "The specified bucket does not have website configuration.",
+    "translation": "指定されたバケツにはウェブサイトの設定がありません。"
+  },
+  {
+    "id": "The specified bucket is not empty. Delete all the files in the bucket, then try again.",
+    "translation": "指定されたバケツが空でない。 バケツ内のファイルをすべて削除してから、もう一度試してください。"
+  },
+  {
+    "id": "The specified bucket name is invalid. Bucket names must start and end in alphanumeric characters (from 3 to 63) and are limited to lowercase, numbers, non-consecutive dots, and hyphens.",
+    "translation": "指定されたバケット名は無効です。 バケツ名は、英数字(3から63まで)で始まり、英数字(小文字、数字、連続しないドット、ハイフン)で終わる必要があります。"
+  },
+  {
+    "id": "The specified bucket was not found in your IBM Cloud account. This may be because you provided the wrong region. Provide the bucket's correct region and try again.",
+    "translation": "指定されたバケットが IBM Cloud アカウントに見つかりませんでした。 これは、あなたが間違った地域を提供したためかもしれません。 バケツの正しい地域を指定して、もう一度試してください。"
+  },
+  {
+    "id": "The specified download location does not exist on your system. Try again with a valid download path.",
+    "translation": "指定されたダウンロード先がシステムに存在しません。 有効なダウンロードパスで再試行してください。"
+  },
+  {
+    "id": "The specified download location is not valid. Try again with a valid download path.",
+    "translation": "指定されたダウンロード場所が無効です。 有効なダウンロードパスで再試行してください。"
+  },
+  {
+    "id": "The specified key does not exist.",
+    "translation": "指定されたキーが存在しない。"
+  },
+  {
+    "id": "The total `NUMBER` of items to return in the command's output.",
+    "translation": "コマンドの出力で返す項目の合計 `NUMBER`。"
+  },
+  {
+    "id": "The value in flag '--%s' is invalid",
+    "translation": "フラグ '--%s' の値は無効です"
+  },
+  {
+    "id": "This option skips confirmation prompts and executes the operation.",
+    "translation": "このオプションは確認プロンプトをスキップし、操作を実行する。"
+  },
+  {
+    "id": "To retrieve the next set of buckets, use this value marker for the next command: ",
+    "translation": "次のバケットのセットを取得するには、次のコマンドにこの値マーカーを使用する： "
+  },
+  {
+    "id": "To retrieve the next set of multipart uploads, use the following markers in the next command:",
+    "translation": "次のマルチパート・アップロードのセットを取得するには、次のコマンドで以下のマーカーを使用する："
+  },
+  {
+    "id": "To retrieve the next set of objects use the following values for the next command: ",
+    "translation": "次のオブジェクト・セットを取得するには、nextコマンドに以下の値を使用する： "
+  },
+  {
+    "id": "To retrieve the next set of objects use this Key as your --marker for the next command: ",
+    "translation": "次のオブジェクトのセットを取得するには、このキーを次のコマンドの --marker ： "
+  },
+  {
+    "id": "To retrieve the next set of objects use this Token as your --starting-token for the next command: ",
+    "translation": "次のオブジェクトのセットを取得するには、このトークンを次のコマンドの --starting-token ： "
+  },
+  {
+    "id": "To retrieve the next set of parts, use this marker as your part-number-marker for the next command: ",
+    "translation": "次の部品セットを取り出すには、このマーカーを次のコマンドの部品番号マーカーとして使用する： "
+  },
+  {
+    "id": "Together with another listing parameter, specifies the key from which to start listing",
+    "translation": "もう1つのリスティング・パラメータとともに、リスティングを開始するキーを指定します"
+  },
+  {
+    "id": "Together with key-marker, specifies the multipart upload after which listing should begin. If key-marker is not specified, the upload-id-marker parameter is ignored.",
+    "translation": "key-markerとともに、リストアップを開始するマルチパートのアップロードを指定する。 key-markerが指定されない場合、upload-id-markerパラメータは無視される。"
+  },
+  {
+    "id": "Together with key-marker, specifies the object version from which to start listing object versions in a bucket",
+    "translation": "key-marker と共に、バケツ内のオブジェクトバージョンの一覧を開始するオブジェクトのバージョンを指定します"
+  },
+  {
+    "id": "Try logging in using 'ibmcloud login'.",
+    "translation": "ibmcloud login」を使ってログインしてみてください。"
+  },
+  {
+    "id": "URL Style",
+    "translation": "URL スタイル"
+  },
+  {
+    "id": "URL `STYLE` can be VHost or Path.",
+    "translation": "URL STYLE`にはVHostまたはPathを指定する。"
+  },
+  {
+    "id": "Unable to clear regions endpoint URL.",
+    "translation": "リージョン・エンドポイントをクリアできない URL."
+  },
+  {
+    "id": "Unable to clear service endpoint URL.",
+    "translation": "Unable to clear service endpoint URL."
+  },
+  {
+    "id": "Unable to get new Service Instance ID / CRN.",
+    "translation": "新しいサービスインスタンスID/CRNを取得できません。"
+  },
+  {
+    "id": "Unable to load config method.",
+    "translation": "設定メソッドをロードできません。"
+  },
+  {
+    "id": "Unable to load current url style.",
+    "translation": "現在の url スタイルをロードできません。"
+  },
+  {
+    "id": "Unable to load default download location.",
+    "translation": "デフォルトのダウンロード場所をロードできません。"
+  },
+  {
+    "id": "Unable to load region.",
+    "translation": "地域をロードできません。"
+  },
+  {
+    "id": "Unable to parse URL style.",
+    "translation": "URL スタイルを解析できません。"
+  },
+  {
+    "id": "Unable to parse authentication method.",
+    "translation": "認証方法を解析できません。"
+  },
+  {
+    "id": "Unable to read new Authentication Method.",
+    "translation": "新しい認証方法を読み取れません。"
+  },
+  {
+    "id": "Unable to read new URL Style value.",
+    "translation": "新しい URL スタイルの値を読み取れません。"
+  },
+  {
+    "id": "Unable to read new default download location.",
+    "translation": "新しいデフォルトのダウンロード先を読み取れません。"
+  },
+  {
+    "id": "Unable to read new region.",
+    "translation": "新しいリージョンが読み込めない。"
+  },
+  {
+    "id": "Unable to save new Service Endpoint URL.",
+    "translation": "新しいサービス・エンドポイントを保存できない URL."
+  },
+  {
+    "id": "Unable to save new region.",
+    "translation": "新しい地域を保存できない。"
+  },
+  {
+    "id": "Unable to save new regions endpoint URL.",
+    "translation": "新しい地域のエンドポイントを保存できない URL."
+  },
+  {
+    "id": "Unable to store Access key.",
+    "translation": "アクセスキーを保存できません。"
+  },
+  {
+    "id": "Unable to store Secret key.",
+    "translation": "シークレットキーを保存できません。"
+  },
+  {
+    "id": "Unable to store new download location.",
+    "translation": "新しいダウンロード先を保存できません。"
+  },
+  {
+    "id": "Unable to switch URL style.",
+    "translation": "URL スタイルを切り替えられない。"
+  },
+  {
+    "id": "Unable to switch authentication method.",
+    "translation": "認証方法を切り替えることができません。"
+  },
+  {
+    "id": "Upload `ID` identifying the multipart upload.",
+    "translation": "マルチパートアップロードを識別する `ID` をアップロードする。"
+  },
+  {
+    "id": "Upload a part",
+    "translation": "部品のアップロード"
+  },
+  {
+    "id": "Upload a part by copying data from an existing object",
+    "translation": "既存のオブジェクトからデータをコピーして部品をアップロードする"
+  },
+  {
+    "id": "Upload an object to a bucket",
+    "translation": "バケツにオブジェクトをアップロードする"
+  },
+  {
+    "id": "Upload an object using a managed multipart transfer",
+    "translation": "マネージド・マルチパート転送を使用したオブジェクトのアップロード"
+  },
+  {
+    "id": "Upload files or directories via Aspera",
+    "translation": "でファイルやディレクトリをアップロードする。 Aspera"
+  },
+  {
+    "id": "UploadId",
+    "translation": "UploadId"
+  },
+  {
+    "id": "Uploaded part '{{.part}}' of object '{{.Object}}'.",
+    "translation": "オブジェクト '{{.Object}}' のパーツ '{{.part}}' をアップロードしました。"
+  },
+  {
+    "id": "Uploaded part copy '{{.part}}' of object '{{.Object}}'.",
+    "translation": "オブジェクト '{{.Object}}' のパーツコピー '{{.part}}' をアップロードしました。"
+  },
+  {
+    "id": "Value",
+    "translation": "値"
+  },
+  {
+    "id": "Version ID",
+    "translation": "バージョンID"
+  },
+  {
+    "id": "Version ID Marker: ",
+    "translation": "バージョンIDマーカー： "
+  },
+  {
+    "id": "Version ID: ",
+    "translation": "バージョンID： "
+  },
+  {
+    "id": "Versioning Configuration",
+    "translation": "バージョン設定"
+  },
+  {
+    "id": "WARNING: An object with the name '{{.file}}' already exists at '{{.dl}}'.",
+    "translation": "警告：'{{.dl}}' に '{{.file}}' という名前のオブジェクトがすでに存在しています。"
+  },
+  {
+    "id": "WARNING: This will permanently delete any bucket website configuration from the bucket '{{.Bucket}}'.",
+    "translation": "警告: これは、バケツ '{{.Bucket}}' からバケツウェブサイトの設定を完全に削除します。"
+  },
+  {
+    "id": "WARNING: This will permanently delete the bucket '{{.Bucket}}' from your account.",
+    "translation": "警告: これはあなたのアカウントからバケツ '{{.Bucket}}' を完全に削除します。"
+  },
+  {
+    "id": "WARNING: This will permanently delete the object '{{.Key}}' from the bucket '{{.Bucket}}'.",
+    "translation": "警告: これは、バケツ '{{.Bucket}}' からオブジェクト '{{.Key}}' を完全に削除します。"
+  },
+  {
+    "id": "WARNING: You have already stored a Service Instance ID / CRN before.",
+    "translation": "警告：以前にサービスインスタンスID/CRNを保存したことがあります。"
+  },
+  {
+    "id": "Wait until 200 response is received when polling with head-bucket.  It will poll every 5 seconds until a successful state has been reached. This will exit with a return code of 255 after 20 failed checks.",
+    "translation": "ヘッドバケットでポーリングする場合は、200応答を受信するまで待つ。  成功状態になるまで5秒ごとにポーリングする。 20回チェックに失敗すると、リターンコード255で終了する。"
+  },
+  {
+    "id": "Wait until 200 response is received when polling with head-object.  It will poll every 5 seconds until a successful state has been reached.  This will exit with a return code of 255 after 20 failed checks.",
+    "translation": "head-objectでポーリングする場合は、200応答を受信するまで待つ。  成功状態になるまで5秒ごとにポーリングする。  20回チェックに失敗すると、リターンコード255で終了する。"
+  },
+  {
+    "id": "Wait until 404 response is received when polling with head-bucket.  It will poll every 5 seconds until a successful state has been reached.  This will exit with a return code of 255 after 20 failed checks.",
+    "translation": "ヘッドバケットでポーリングする場合は、404応答を受信するまで待つ。  成功状態になるまで5秒ごとにポーリングする。  20回チェックに失敗すると、リターンコード255で終了する。"
+  },
+  {
+    "id": "Wait until 404 response is received when polling with head-object.  It will poll every 5 seconds until a successful state has been reached.  This will exit with a return code of 255 after 20 failed checks.",
+    "translation": "head-objectでポーリングする場合は、404応答を受信するまで待つ。  成功状態になるまで5秒ごとにポーリングする。  20回チェックに失敗すると、リターンコード255で終了する。"
+  },
+  {
+    "id": "Website Configuration",
+    "translation": "ウェブサイト構成"
+  },
+  {
+    "id": "Your proposed upload is smaller than the minimum allowed size. File parts must be greater than 5 MB in size, except for the last part.",
+    "translation": "あなたのアップロード案は、許容される最小サイズより小さい。 ファイル・パートは、最後のパートを除き、5MB以上のサイズでなければなりません。"
+  },
+  {
+    "id": "[Deprecated] Output returned in raw JSON format.",
+    "translation": "[非推奨] 生のJSONフォーマットで返される出力。"
+  },
+  {
+    "id": "`SIZE` of the body in bytes. This parameter is useful when the size of the body cannot be determined automatically.",
+    "translation": "バイト単位のボディの`SIZE`。 このパラメータは、ボディのサイズを自動的に決定できない場合に有効である。"
+  },
+  {
+    "id": "date (UTC)",
+    "translation": "日付 (UTC)"
+  },
+  {
+    "id": "days",
+    "translation": "日数"
+  },
+  {
+    "id": "key",
+    "translation": "キー"
+  },
+  {
+    "id": "missing Environment Variable: %s",
+    "translation": "環境変数が見つからない： %s"
+  },
+  {
+    "id": "no buckets.",
+    "translation": "バケツはない。"
+  },
+  {
+    "id": "no delete markers in bucket '",
+    "translation": "バケツに削除マーカーがない"
+  },
+  {
+    "id": "no multipart uploads in bucket '",
+    "translation": "バケットにマルチパートのアップロードがない"
+  },
+  {
+    "id": "no noncurrentVersionTransitions in bucket lifecycle configuration",
+    "translation": "バケツのライフサイクル設定に noncurrentVersionTransitions がない"
+  },
+  {
+    "id": "no object versions in bucket '",
+    "translation": "バケットにオブジェクトのバージョンがない"
+  },
+  {
+    "id": "no objects in bucket '",
+    "translation": "バケツにオブジェクトがない"
+  },
+  {
+    "id": "no parts in the multipart upload for '",
+    "translation": "のマルチパート・アップロードにはパーツがありません"
+  },
+  {
+    "id": "no such directory: %s",
+    "translation": "そのようなディレクトリはありません： %s"
+  },
+  {
+    "id": "no transitions in bucket lifecycle configuration",
+    "translation": "バケットライフサイクルの設定に遷移がない"
+  },
+  {
+    "id": "noncurrent days",
+    "translation": "非現行日数"
+  },
+  {
+    "id": "storage class",
+    "translation": "ストレージ・クラス"
+  },
+  {
+    "id": "unable to install Aspera SDK: %s",
+    "translation": "Aspera SDK をインストールできない： %s"
+  },
+  {
+    "id": "value",
+    "translation": "値"
+  }
+]
