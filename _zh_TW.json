@@ -1,0 +1,1414 @@
+[
+  {
+    "id": " `Start After` is where you want S3 to start listing from. S3 starts listing after this specified key. StartAfter can be any key in the bucket.",
+    "translation": " `Start After` 是您希望 S3 從哪裡開始列出。 S3 在此指定的鍵之後開始列出。 StartAfter 可以是水桶中的任何鍵。"
+  },
+  {
+    "id": " and tags: ",
+    "translation": " 和標籤： "
+  },
+  {
+    "id": " buckets found in your account:\n",
+    "translation": " 在您的帳戶中找到的水桶：\n"
+  },
+  {
+    "id": " buckets:",
+    "translation": " 水桶："
+  },
+  {
+    "id": " delete markers in bucket '",
+    "translation": " 刪除水桶中的標記 '"
+  },
+  {
+    "id": " downloaded.",
+    "translation": " 已下載。"
+  },
+  {
+    "id": " multipart uploads in bucket '",
+    "translation": " 水桶中的多部分上傳 '"
+  },
+  {
+    "id": " noncurrentVersionTransitions in bucket lifecycle configuration",
+    "translation": " noncurrentVersionTransitions 在水桶生命週期配置中"
+  },
+  {
+    "id": " object versions in bucket '",
+    "translation": " 水桶中的物件版本 '"
+  },
+  {
+    "id": " objects in bucket '",
+    "translation": " 水桶中的物件 '"
+  },
+  {
+    "id": " parts in the multipart upload for '",
+    "translation": " 多部件上載中的"
+  },
+  {
+    "id": " transitions in bucket lifecycle configuration",
+    "translation": " 水桶生命週期配置的轉換"
+  },
+  {
+    "id": "(`SOURCE`) The name of the source bucket and key name of the source object, separated by a slash (/). Must be URL-encoded.",
+    "translation": "(`SOURCE`) 源資料桶的名稱和來源物件的 key 名稱，以斜線 (/) 分隔。必須是 URL - 編碼。"
+  },
+  {
+    "id": "(empty response from server; versioning has never been configured for this bucket)",
+    "translation": "(來自伺服器的空回應；從未為此水桶設定版本控制）"
+  },
+  {
+    "id": "1 bucket found in your account:\n",
+    "translation": "在您的帳戶中找到 1 個水桶：\n"
+  },
+  {
+    "id": "1 bucket:",
+    "translation": "1 桶："
+  },
+  {
+    "id": "1 delete marker in bucket '",
+    "translation": "1 刪除水桶中的標記 '"
+  },
+  {
+    "id": "1 multipart upload in bucket '",
+    "translation": "在水桶中上傳 1 個多部分 '"
+  },
+  {
+    "id": "1 noncurrentVersionTransition in bucket lifecycle configuration",
+    "translation": "1 noncurrentVersionTransition 在水桶生命週期配置中"
+  },
+  {
+    "id": "1 object in bucket '",
+    "translation": "桶中有 1 個物件 '"
+  },
+  {
+    "id": "1 object version in bucket '",
+    "translation": "水桶中的 1 個物件版本 '"
+  },
+  {
+    "id": "1 part in the multipart upload for '",
+    "translation": "多部分上載中的 1 部分為 '"
+  },
+  {
+    "id": "1 transitions in bucket lifecycle configuration",
+    "translation": "1 個水桶生命週期配置的轉換"
+  },
+  {
+    "id": "A `DELIMITER` is a character you use to group keys.",
+    "translation": "分隔符」是用來將按鍵分組的字元。"
+  },
+  {
+    "id": "A `STRUCTURE` using JSON syntax in a file. See IBM Cloud Documentation.",
+    "translation": "檔案中使用 JSON 語法的 `STRUCTURE`。 請參閱 IBM Cloud 文件。"
+  },
+  {
+    "id": "A `STRUCTURE` using JSON syntax. See IBM Cloud Documentation.",
+    "translation": "使用 JSON 語法的 `STRUCTURE`。 請參閱 IBM Cloud 文件。"
+  },
+  {
+    "id": "A `STRUCTURE` using either shorthand or JSON syntax. See IBM Cloud Documentation.",
+    "translation": "使用速記或 JSON 語法的「結構」。 請參閱 IBM Cloud 文件。"
+  },
+  {
+    "id": "A `Starting Token` to specify where to start paginating. This is the NextContinuationToken from a previously truncated response.",
+    "translation": "Starting Token」用來指定開始分頁的位置。 這是先前截斷回應的 NextContinuationToken。"
+  },
+  {
+    "id": "A bucket with the specified name already exists in your account. Create a bucket with a new name.",
+    "translation": "您的帳戶中已存在指定名稱的水桶。 使用新名稱建立一個水桶。"
+  },
+  {
+    "id": "A standard `MIME` type describing the format of the object data.",
+    "translation": "描述物件資料格式的標準 `MIME` 類型。"
+  },
+  {
+    "id": "A tag-set for the object encoded as URL query parameters (`Key1=Value1`). For `object-tagging-put`, a `STRUCTURE` using JSON syntax. See IBM Cloud Documentation.",
+    "translation": "以 URL 查詢參數 ( `Key1=Value1` ) 編碼的物件標籤集。對於「object-tagging-put」，使用 JSON 語法的「STRUCTURE」。 請參閱 IBM Cloud 文件。"
+  },
+  {
+    "id": "Abort an existing multipart upload",
+    "translation": "中止現有的多部分上傳"
+  },
+  {
+    "id": "Abort incomplete multipart upload initiated after, in days: ",
+    "translation": "以天為單位，終止在之後啟動的未完成多部分上傳： "
+  },
+  {
+    "id": "AbortIncompleteMultipartUpload: ",
+    "translation": "AbortIncompleteMultipartUpload: "
+  },
+  {
+    "id": "Access to your IBM Cloud account was denied. Log in again by typing ibmcloud login --sso.",
+    "translation": "您 IBM Cloud 帳戶的存取被拒絕。 再次輸入 ibmcloud login --sso 登入。"
+  },
+  {
+    "id": "Are you sure you would like to continue?",
+    "translation": "您確定要繼續嗎？"
+  },
+  {
+    "id": "Aspera Transferd binary not found. Installing now...",
+    "translation": "Aspera 未找到傳輸的二進位檔案。 現在安裝..."
+  },
+  {
+    "id": "Authentication Method",
+    "translation": "鑑別方法"
+  },
+  {
+    "id": "Authentication `METHOD`.",
+    "translation": "驗證 `METHOD`."
+  },
+  {
+    "id": "Bad Flag Syntax in '%s'",
+    "translation": "%s' 中的 Bad Flag 語法"
+  },
+  {
+    "id": "Block Public ACLs: ",
+    "translation": "封鎖公用 ACL： "
+  },
+  {
+    "id": "Bucket '{{.Bucket}}' in region {{.region}} found in your IBM Cloud Object Storage account.",
+    "translation": "在區域 {{.region}} 中的水桶 '{{.Bucket}}' 在您的 IBM Cloud Object Storage 帳戶中找到。"
+  },
+  {
+    "id": "CRN",
+    "translation": "CRN"
+  },
+  {
+    "id": "Change plugin configuration",
+    "translation": "變更外掛設定"
+  },
+  {
+    "id": "Class: ",
+    "translation": "班級： "
+  },
+  {
+    "id": "Clear the option value.",
+    "translation": "清除選項值。"
+  },
+  {
+    "id": "Command does not support Flag '--%s'",
+    "translation": "指令不支援 Flag '--%s'"
+  },
+  {
+    "id": "Common Prefixes:",
+    "translation": "常見前綴："
+  },
+  {
+    "id": "Complete an existing multipart upload",
+    "translation": "完成現有的多部分上傳"
+  },
+  {
+    "id": "Copies the object if it has been modified since the specified time (`TIMESTAMP`).",
+    "translation": "如果物件在指定時間 (`TIMESTAMP`)之後被修改，則複製該物件。"
+  },
+  {
+    "id": "Copies the object if it hasn't been modified since the specified time (`TIMESTAMP`).",
+    "translation": "如果物件自指定時間 (`TIMESTAMP`)後未曾修改，則複製該物件。"
+  },
+  {
+    "id": "Copies the object if its entity tag (ETag) is different than the specified tag (`ETAG`).",
+    "translation": "如果物件的實體標籤 (ETag) 與指定的標籤 (`ETAG`)不同，則複製該物件。"
+  },
+  {
+    "id": "Copies the object if its entity tag (Etag) matches the specified tag (`ETAG`).",
+    "translation": "如果物件的實體標籤 (Etag) 符合指定的標籤 (`ETAG`)，就複製該物件。"
+  },
+  {
+    "id": "Copy Source Version ID: ",
+    "translation": "複製來源版本 ID： "
+  },
+  {
+    "id": "Copy an object from one bucket to another",
+    "translation": "將物件從一個水桶複製到另一個水桶"
+  },
+  {
+    "id": "Create a new bucket",
+    "translation": "建立新的水桶"
+  },
+  {
+    "id": "Creation Date (UTC)",
+    "translation": "建立日期 (UTC)"
+  },
+  {
+    "id": "Creation Template ID",
+    "translation": "創建模板 ID"
+  },
+  {
+    "id": "Date Created (UTC)",
+    "translation": "建立日期 (UTC)"
+  },
+  {
+    "id": "Default Region",
+    "translation": "預設區域"
+  },
+  {
+    "id": "Delete '{{.Key}}' from bucket '{{.Bucket}}' ran successfully.",
+    "translation": "從儲存桶 '{{.Bucket}} 「 刪除 」{{.Key}}' 執行成功。"
+  },
+  {
+    "id": "Delete '{{.Key}}' from bucket '{{.Bucket}}' with version ID '{{.VersionId}}' ran successfully.",
+    "translation": "從具有版本 ID '{{.VersionId}} 「 的水桶 」{{.Bucket}} 「 中刪除 」{{.Key}}' 成功執行。"
+  },
+  {
+    "id": "Delete an existing bucket",
+    "translation": "刪除現有的水桶"
+  },
+  {
+    "id": "Delete an object from a bucket",
+    "translation": "從水桶中刪除物件"
+  },
+  {
+    "id": "Delete marker created for '{{.Key}}' from bucket '{{.Bucket}}'.",
+    "translation": "從資料桶 '{{.Bucket}} 「 刪除為 」{{.Key}}' 建立的標記。"
+  },
+  {
+    "id": "Delete marker version ID: ",
+    "translation": "刪除標記版本 ID： "
+  },
+  {
+    "id": "Delete multiple objects from a bucket",
+    "translation": "從水桶刪除多個物件"
+  },
+  {
+    "id": "Delete multiple objects from bucket '{{.Bucket}}' ran successfully.",
+    "translation": "從資料桶 '{{.Bucket}}' 刪除多個物件執行成功。"
+  },
+  {
+    "id": "Delete the CORS configuration from a bucket",
+    "translation": "刪除水桶的 CORS 設定"
+  },
+  {
+    "id": "Delete the lifecycle configuration from a bucket",
+    "translation": "從水桶刪除生命週期組態"
+  },
+  {
+    "id": "Delete the replication configuration from a bucket",
+    "translation": "刪除水桶的複製組態"
+  },
+  {
+    "id": "Destination bucket: ",
+    "translation": "目的地水桶： "
+  },
+  {
+    "id": "Details about bucket ",
+    "translation": "水桶的詳細資訊 "
+  },
+  {
+    "id": "Details about your multipart upload instance:",
+    "translation": "有關您的多部分上傳實例的詳細資訊："
+  },
+  {
+    "id": "Determine if a specified bucket exists in the target region",
+    "translation": "確定目標區域中是否存在指定的水桶"
+  },
+  {
+    "id": "Download Location",
+    "translation": "下載地點"
+  },
+  {
+    "id": "Download an object from a bucket",
+    "translation": "從水桶下載物件"
+  },
+  {
+    "id": "Download an object using a managed multipart transfer",
+    "translation": "使用受管理的多部分傳輸下載物件"
+  },
+  {
+    "id": "Download objects via Aspera",
+    "translation": "透過下列方式下載物件 Aspera"
+  },
+  {
+    "id": "Downloads the specified `RANGE` bytes of an object. For more information about the HTTP Range header, go to http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.35.",
+    "translation": "下載物件的指定 `RANGE` 位元組。 如需 HTTP Range 標頭的詳細資訊，請前往 http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.35。"
+  },
+  {
+    "id": "ETag",
+    "translation": "ETag"
+  },
+  {
+    "id": "Empty",
+    "translation": "空白"
+  },
+  {
+    "id": "Error Document: ",
+    "translation": "錯誤文件： "
+  },
+  {
+    "id": "Error opening '{{.Location}}' to write.",
+    "translation": "Error opening '{{.Location}}' to write."
+  },
+  {
+    "id": "Expiration by date (UTC): ",
+    "translation": "到期日期 (UTC)： "
+  },
+  {
+    "id": "Expiration in days: ",
+    "translation": "以天為單位的到期日： "
+  },
+  {
+    "id": "Expiration: ",
+    "translation": "有效期限： "
+  },
+  {
+    "id": "Filter by And operator: ",
+    "translation": "依 And 運算符號篩選： "
+  },
+  {
+    "id": "Filter by prefix: ",
+    "translation": "依字首篩選： "
+  },
+  {
+    "id": "Filter by tag: ",
+    "translation": "依標籤篩選： "
+  },
+  {
+    "id": "Filter by tags: ",
+    "translation": "依標籤篩選： "
+  },
+  {
+    "id": "Filter object with Size less than: ",
+    "translation": "篩選大小小於的物件： "
+  },
+  {
+    "id": "Filter object with size greater than: ",
+    "translation": "篩選大小大於的物件： "
+  },
+  {
+    "id": "Filter: ",
+    "translation": "過濾器： "
+  },
+  {
+    "id": "Flag '--%s' requires a value",
+    "translation": "旗標 '--%s' 需要一個值"
+  },
+  {
+    "id": "Found ",
+    "translation": "找到 "
+  },
+  {
+    "id": "Get an object's size and last modified date",
+    "translation": "取得物件的大小和最後修改日期"
+  },
+  {
+    "id": "Get legal hold for a object",
+    "translation": "取得物件的合法持有權"
+  },
+  {
+    "id": "Get retention on a object ",
+    "translation": "取得物件的保留時間 "
+  },
+  {
+    "id": "Get tags for an object",
+    "translation": "取得物件的標籤"
+  },
+  {
+    "id": "Get the CORS configuration for a bucket",
+    "translation": "取得水桶的 CORS 設定"
+  },
+  {
+    "id": "Get the lifecycle configuration for a bucket",
+    "translation": "取得水桶的生命週期設定"
+  },
+  {
+    "id": "Get the location and billing tier of a bucket",
+    "translation": "取得水桶的位置和帳單層級"
+  },
+  {
+    "id": "Get the object lock configuration for a bucket",
+    "translation": "取得水桶的物件鎖設定"
+  },
+  {
+    "id": "Get the public access block configuration on a bucket",
+    "translation": "取得水桶上的公用存取區塊設定"
+  },
+  {
+    "id": "Get the replication configuration for a bucket",
+    "translation": "取得水桶的複製組態"
+  },
+  {
+    "id": "Get the static website configuration on a bucket",
+    "translation": "取得水桶上的靜態網站設定"
+  },
+  {
+    "id": "Get the versioning configuration for a bucket",
+    "translation": "取得水桶的版本設定"
+  },
+  {
+    "id": "ID: ",
+    "translation": "ID： "
+  },
+  {
+    "id": "If a bucket is configured as a website, redirects requests for the object key to another object in the same bucket or to a URL (`LOCATION`).",
+    "translation": "如果一個水桶被設定為網站，會將對象 key 的請求重定向到同一個水桶中的另一個對象或 URL (`LOCATION`)。"
+  },
+  {
+    "id": "Ignore Public ACLs: ",
+    "translation": "忽略公用 ACL： "
+  },
+  {
+    "id": "Index Suffix: ",
+    "translation": "索引後綴： "
+  },
+  {
+    "id": "Initiate a new multipart upload",
+    "translation": "啟動新的多部分上傳"
+  },
+  {
+    "id": "Initiated (UTC)",
+    "translation": "啟動時間 (UTC)"
+  },
+  {
+    "id": "Interact with IBM Cloud Object Storage services",
+    "translation": "與 IBM Cloud Object Storage 服務互動"
+  },
+  {
+    "id": "A valid Service Instance ID / CRN must be configured to create or list buckets.\nIf the Service Instance has not been created already, create it using CLI: ‘ibmcloud resource service-instance-create <instance-name> cloud-object-storage <plan> <location>’.\nAlternatively, you can create it using the IBM Cloud UI: https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-provision#provision-instance.\nGet the CRN using: ‘ibmcloud resource service-instance <instance-name> --crn’.\nConfigure the CRN using: ‘ibmcloud cos config crn --crn <crn-value>’.\nVerify the Service Instance ID / CRN using: ‘ibmcloud cos config list’.",
+    "translation": "必須設定有效的服務實體 ID / CRN，才能建立或列出 buckets.\nIf 尚未建立服務實體時，請使用 CLI 建立：'ibmcloud resource service-instance-create <instance-name> cloud-object-storage <plan> <location>’.\nAlternatively, 您可以使用 IBM Cloud UI 建立： https://cloud.ibm.com/docs/cloud-object-storage?topic=cloud-object-storage-provision#provision-instance.\nGet 使用 CRN：'ibmcloud resource service-instance <instance-name> --crn’.\nConfigure 使用 CRN：'ibmcloud cos config crn --crn <crn-value>’.\nVerify 使用服務實體 ID / CRN：'ibmcloud cos config list'。"
+  },
+  {
+    "id": "Invalid boolean flag '--%s'",
+    "translation": "無效的布林標誌 '--%s'"
+  },
+  {
+    "id": "Invalid boolean value in Flag '--%s'",
+    "translation": "Flag '--%s' 中的布林值無效"
+  },
+  {
+    "id": "Is Latest",
+    "translation": "是最新的"
+  },
+  {
+    "id": "It was last updated on {{.lastupdated}}.",
+    "translation": "本網站最後更新於 {{.lastupdated}}。"
+  },
+  {
+    "id": "Key",
+    "translation": "索引鍵"
+  },
+  {
+    "id": "Key Marker: ",
+    "translation": "關鍵標記： "
+  },
+  {
+    "id": "Last Modified (UTC)",
+    "translation": "最後修改時間 (UTC)"
+  },
+  {
+    "id": "Last Modified (UTC): {{.lastmodified}}",
+    "translation": "最後修改 (UTC)： {{.lastmodified}}"
+  },
+  {
+    "id": "Last Updated",
+    "translation": "前次更新時間"
+  },
+  {
+    "id": "Legal Hold Status: ",
+    "translation": "法律保留狀態： "
+  },
+  {
+    "id": "Lifecycle Configuration",
+    "translation": "生命週期配置"
+  },
+  {
+    "id": "Limits the response to keys that begin with the specified `PREFIX`.",
+    "translation": "限制回應以指定的 `PREFIX` 開頭的按鍵。"
+  },
+  {
+    "id": "List active multipart uploads",
+    "translation": "列出作用中的多部分上傳"
+  },
+  {
+    "id": "List all buckets in a service instance",
+    "translation": "列出服務實例中的所有儲存桶"
+  },
+  {
+    "id": "List all buckets in a service instance and their provisioning codes",
+    "translation": "列出服務實例中的所有儲存桶及其佈建代碼"
+  },
+  {
+    "id": "List all object versions in a specific bucket",
+    "translation": "列出特定水桶中的所有物件版本"
+  },
+  {
+    "id": "List all objects in a specific bucket",
+    "translation": "列出特定水桶中的所有物件"
+  },
+  {
+    "id": "List configuration",
+    "translation": "清單配置"
+  },
+  {
+    "id": "List configuration values.",
+    "translation": "列出組態值。"
+  },
+  {
+    "id": "List parts of an active multipart upload",
+    "translation": "列出作用中的多部分上傳的部分"
+  },
+  {
+    "id": "Location Constraint",
+    "translation": "位置限制"
+  },
+  {
+    "id": "Mandatory Flag '--%s' is missing",
+    "translation": "缺少必填標誌 '--%s'"
+  },
+  {
+    "id": "Max number of `PARTS` which will be uploaded to S3 that calculates the part size of the object to be uploaded.  Limit is 10,000 parts.",
+    "translation": "將上傳至 S3 的 `PARTS` 的最大數量，它會計算要上傳物件的部件大小。  上限為 10,000 個零件。"
+  },
+  {
+    "id": "Mode: ",
+    "translation": "模式： "
+  },
+  {
+    "id": "Name",
+    "translation": "名稱"
+  },
+  {
+    "id": "Newer noncurrent versions",
+    "translation": "較新的非目前版本"
+  },
+  {
+    "id": "No buckets found in your account.",
+    "translation": "在您的帳戶中找不到水桶。"
+  },
+  {
+    "id": "No lifecycle configuration rules returned",
+    "translation": "沒有傳回生命週期組態規則"
+  },
+  {
+    "id": "No tags returned",
+    "translation": "無標籤返回"
+  },
+  {
+    "id": "NoncurrentVersionExpiration by newer noncurrent versions: ",
+    "translation": "NoncurrentVersionExpiration 由較新的非目前版本所取代： "
+  },
+  {
+    "id": "NoncurrentVersionExpiration by noncurrent days: ",
+    "translation": "NoncurrentVersionExpiration 按非流動天數計算： "
+  },
+  {
+    "id": "NoncurrentVersionExpiration: ",
+    "translation": "NoncurrentVersionExpiration: "
+  },
+  {
+    "id": "Object '{{.Key}}' was found in bucket '{{.Bucket}}'.",
+    "translation": "在資料桶 '{{.Bucket}} 「 中發現物件 」{{.Key}}'。"
+  },
+  {
+    "id": "Object Lock Configuration",
+    "translation": "物件鎖組態"
+  },
+  {
+    "id": "Object Lock Status: ",
+    "translation": "物件鎖狀態： "
+  },
+  {
+    "id": "Object Size",
+    "translation": "物件大小"
+  },
+  {
+    "id": "Object Size: {{.objectsize}}",
+    "translation": "物件大小： {{.objectsize}}"
+  },
+  {
+    "id": "Object data location (`FILE_PATH`).",
+    "translation": "物件資料位置 (`FILE_PATH`)。"
+  },
+  {
+    "id": "ObjectSizeGreaterThan: ",
+    "translation": "ObjectSizeGreaterThan: "
+  },
+  {
+    "id": "ObjectSizeLessThan: ",
+    "translation": "ObjectSizeLessThan: "
+  },
+  {
+    "id": "Operation canceled.",
+    "translation": "行動取消。"
+  },
+  {
+    "id": "Output `FORMAT` can be only json or text.",
+    "translation": "輸出 `FORMAT` 只能是 json 或文字。"
+  },
+  {
+    "id": "Override the default location providing an OUTFILE parameter",
+    "translation": "覆寫預設位置，提供 OUTFILE 參數"
+  },
+  {
+    "id": "Part Number",
+    "translation": "組件編號"
+  },
+  {
+    "id": "Part `NUMBER` of part being uploaded. This is a positive integer between 1 and 10,000.",
+    "translation": "正在上傳的部件的 `NUMBER`。 這是介於 1 到 10,000 之間的正整數。"
+  },
+  {
+    "id": "Part number `VALUE` after which listing begins",
+    "translation": "零件編號 `VALUE` 之後開始列名"
+  },
+  {
+    "id": "Poll an API until a particular condition is satisfied",
+    "translation": "輪詢 API 直到滿足特定條件"
+  },
+  {
+    "id": "Prefix: ",
+    "translation": "字首： "
+  },
+  {
+    "id": "Priority: ",
+    "translation": "優先順序： "
+  },
+  {
+    "id": "Public Access Block Configuration",
+    "translation": "公共存取區塊組態"
+  },
+  {
+    "id": "Redirect Hostname: ",
+    "translation": "重定向主機名稱： "
+  },
+  {
+    "id": "Redirect Protocol: ",
+    "translation": "重定向通訊協定： "
+  },
+  {
+    "id": "Region: ",
+    "translation": "地區： "
+  },
+  {
+    "id": "Regions endpoint `URL`.",
+    "translation": "區域端點 ` URL `。"
+  },
+  {
+    "id": "Remove delete markers on expired objects: ",
+    "translation": "移除過期物件上的刪除標記： "
+  },
+  {
+    "id": "Remove public access block configuration from a bucket",
+    "translation": "從水桶移除公用存取區塊設定"
+  },
+  {
+    "id": "Remove static website configuration from a bucket",
+    "translation": "從水桶移除靜態網站設定"
+  },
+  {
+    "id": "Remove tags from an object",
+    "translation": "從物件移除標籤"
+  },
+  {
+    "id": "Replication Configuration",
+    "translation": "複製組態"
+  },
+  {
+    "id": "Requests to encode the object keys in the response and specifies the encoding `METHOD` to use.",
+    "translation": "要求對回應中的物件鍵進行編碼，並指定要使用的編碼 `METHOD`。"
+  },
+  {
+    "id": "Retain Until Date (UTC): ",
+    "translation": "保留至日期 (UTC)： "
+  },
+  {
+    "id": "Retention",
+    "translation": "保留"
+  },
+  {
+    "id": "Retention Mode: ",
+    "translation": "保留模式： "
+  },
+  {
+    "id": "Retention Period: ",
+    "translation": "保留期限： "
+  },
+  {
+    "id": "Return the object only if it has been modified since the specified `TIMESTAMP`, otherwise return a 304 (not modified).",
+    "translation": "僅在物件自指定的 `TIMESTAMP` 以來被修改時才傳回，否則傳回 304 (未修改)。"
+  },
+  {
+    "id": "Return the object only if it has not been modified since the specified `TIMESTAMP`, otherwise return a 412 (precondition failed).",
+    "translation": "僅當物件自指定的 `TIMESTAMP` 以來未被修改時，才傳回該物件，否則傳回 412 (先決條件失敗)。"
+  },
+  {
+    "id": "Return the object only if its entity tag (ETag) is different from the `ETAG` specified, otherwise return a 304 (not modified).",
+    "translation": "僅當物件的實體標籤 (ETag) 與指定的 `ETAG` 不同時才傳回物件，否則傳回 304 (未修改)。"
+  },
+  {
+    "id": "Return the object only if its entity tag (ETag) is the same as the `ETAG` specified, otherwise return a 412 (precondition failed).",
+    "translation": "僅當物件的 entitytag (ETag) 與指定的 `ETAG` 相同時才傳回物件，否則傳回 412 (先決條件失敗)。"
+  },
+  {
+    "id": "Saving default download location...",
+    "translation": "儲存預設下載位置..."
+  },
+  {
+    "id": "Saving new Service Instance ID / CRN...",
+    "translation": "儲存新的服務 Instance ID / CRN..."
+  },
+  {
+    "id": "Service Endpoint",
+    "translation": "服務端點"
+  },
+  {
+    "id": "Set custom Service Endpoint for all operations",
+    "translation": "為所有作業設定自訂服務端點"
+  },
+  {
+    "id": "Set public access block configuration on a bucket",
+    "translation": "在水桶上設定公用存取區塊設定"
+  },
+  {
+    "id": "Set regions endpoint URL",
+    "translation": "設定區域端點 URL"
+  },
+  {
+    "id": "Set retention on a object",
+    "translation": "設定物件的保留時間"
+  },
+  {
+    "id": "Set static website configuration on a bucket",
+    "translation": "在水桶上設定靜態網站組態"
+  },
+  {
+    "id": "Set tags on an object",
+    "translation": "在物件上設定標籤"
+  },
+  {
+    "id": "Set the CORS configuration on a bucket",
+    "translation": "在水桶上設定 CORS 配置"
+  },
+  {
+    "id": "Set the default location for downloads.",
+    "translation": "設定下載的預設位置。"
+  },
+  {
+    "id": "Set the legal hold on a object",
+    "translation": "設定物件的合法持有"
+  },
+  {
+    "id": "Set the lifecycle configuration on a bucket",
+    "translation": "在水桶上設定生命週期組態"
+  },
+  {
+    "id": "Set the object lock configuration on a bucket",
+    "translation": "設定水桶的物件鎖設定"
+  },
+  {
+    "id": "Set the replication configuration on a bucket",
+    "translation": "在水桶上設定複製組態"
+  },
+  {
+    "id": "Set the versioning configuration on a bucket",
+    "translation": "在水桶上設定版本設定"
+  },
+  {
+    "id": "Sets the Cache-Control `HEADER` of the response.",
+    "translation": "設定回應的 Cache-Control `HEADER`。"
+  },
+  {
+    "id": "Sets the Content-Disposition `HEADER` of the response.",
+    "translation": "設定回應的 Content-Disposition `HEADER`。"
+  },
+  {
+    "id": "Sets the Content-Encoding `HEADER` of the response.",
+    "translation": "設定回應的 Content-Encoding `HEADER`。"
+  },
+  {
+    "id": "Sets the Content-Language `HEADER` of the response.",
+    "translation": "設定回應的 Content-Language `HEADER`。"
+  },
+  {
+    "id": "Sets the Content-Type `HEADER` of the response.",
+    "translation": "設定回應的 Content-Type `HEADER`。"
+  },
+  {
+    "id": "Sets the Expires `HEADER` of the response.",
+    "translation": "設定回應的 Expires `HEADER`。"
+  },
+  {
+    "id": "Sets the IBM Service Instance `ID` / CRN in the request.",
+    "translation": "在請求中設定 IBM 服務 Instance `ID` / CRN。"
+  },
+  {
+    "id": "Setting this value to true will cause the SDK to avoid calling AbortMultipartUpload on a failure, leaving all successfully uploaded parts on S3 for manual recovery.",
+    "translation": "將此值設定為 true 會導致 SDK 在失敗時避免呼叫 AbortMultipartUpload ，將所有成功上傳的零件留在 S3 上，以便手動復原。"
+  },
+  {
+    "id": "Size",
+    "translation": "大小"
+  },
+  {
+    "id": "Specifies `CACHING_DIRECTIVES` for the request/reply chain.",
+    "translation": "指定請求/回覆鏈的 `CACHING_DIRECTIVES`。"
+  },
+  {
+    "id": "Specifies presentational information (`DIRECTIVES`).",
+    "translation": "指定呈現資訊 (`DIRECTIVES`)。"
+  },
+  {
+    "id": "Specifies the `KEY` (OBJECT_NAME) to start with when listing objects in a bucket.",
+    "translation": "指定列出水桶中的物件時，要從 `KEY` (OBJECT_NAME) 開始。"
+  },
+  {
+    "id": "Specifies what content encodings (`CONTENT_ENCODING`) have been applied to the object and thus what decoding mechanisms must be applied to obtain the media-type referenced by the Content-Type header field.",
+    "translation": "指定對物件套用了哪些內容編碼 (`CONTENT_ENCODING`)，因此必須套用哪些解碼機制，才能取得 Content-Type 標頭欄位所引用的媒體類型。"
+  },
+  {
+    "id": "Specifies whether the metadata is copied from the source object or replaced with metadata provided in the request. `DIRECTIVE` values: COPY, REPLACE.",
+    "translation": "指定是從來源物件複製元資料，還是以請求中提供的元資料取代。`DIRECTIVE` 值：複製、取代。"
+  },
+  {
+    "id": "Specifies whether to copy the tag-set from the source object or replace it with the tag-set provided",
+    "translation": "指定是複製來源物件的標籤集，還是用提供的標籤集取代"
+  },
+  {
+    "id": "Status: ",
+    "translation": "狀態： "
+  },
+  {
+    "id": "Store Service Instance ID / CRN in the config",
+    "translation": "在配置中儲存服務 Instance ID / CRN"
+  },
+  {
+    "id": "Store Default Download Location in the config",
+    "translation": "在設定中儲存預設下載位置"
+  },
+  {
+    "id": "Store Default Region in the config",
+    "translation": "在設定中儲存預設區域"
+  },
+  {
+    "id": "Store HMAC credentials in the config",
+    "translation": "在配置中儲存 HMAC 認證"
+  },
+  {
+    "id": "Store your Service Instance ID / `CRN` in the config.",
+    "translation": "在設定中儲存您的服務 Instance ID / `CRN`。"
+  },
+  {
+    "id": "Successfully aborted a multipart upload instance with key '{{.Key}}' and bucket '{{.Bucket}}'.",
+    "translation": "成功中止一個具有 key '{{.Key}} 「 和 bucket 」{{.Bucket}}' 的多部分上傳實例。"
+  },
+  {
+    "id": "Successfully cleared regions endpoint URL.",
+    "translation": "成功清除區域端點 URL。"
+  },
+  {
+    "id": "Successfully cleared service endpoint URL",
+    "translation": "成功清除服務端點 URL"
+  },
+  {
+    "id": "Successfully copied '{{.Object}}' from bucket '{{.bucket1}}' to bucket '{{.bucket2}}'.",
+    "translation": "成功地將 '{{.Object}} 「 從資料桶 」{{.bucket1}} 「 複製到資料桶 」{{.bucket2}}' 中。"
+  },
+  {
+    "id": "Successfully deleted CORS configuration on bucket: {{.Bucket}}",
+    "translation": "成功刪除水桶上的 CORS 設定： {{.Bucket}}"
+  },
+  {
+    "id": "Successfully deleted bucket '{{.Bucket}}'. The bucket '{{.Bucket}}' will be available for reuse after 15 minutes.",
+    "translation": "成功刪除水桶 '{{.Bucket}}'。 15 分鐘後，水桶 '{{.Bucket}}' 將可重複使用。"
+  },
+  {
+    "id": "Successfully downloaded '{{.Key}}' from bucket '{{.Bucket}}'",
+    "translation": "成功從水桶 '{{.Bucket}} 「 下載 」{{.Key}}'"
+  },
+  {
+    "id": "Successfully saved HMAC Credentials to file.",
+    "translation": "成功將 HMAC 認證儲存至檔案。"
+  },
+  {
+    "id": "Successfully saved S3 {{.Style}} style hosting option. CLI calls will use {{.Style}} style requests.",
+    "translation": "成功儲存 S3 {{.Style}} 風格託管選項。 CLI 呼叫將使用 {{.Style}} 風格的請求。"
+  },
+  {
+    "id": "Successfully saved default region. The program will look for buckets in the region {{.region}}.",
+    "translation": "成功儲存預設區域。 程式會在 {{.region}} 區域內尋找水桶。"
+  },
+  {
+    "id": "Successfully saved download location. New files will be downloaded to '",
+    "translation": "成功儲存下載位置。 新檔案會下載到 '"
+  },
+  {
+    "id": "Successfully set CORS configuration on bucket: {{.Bucket}}",
+    "translation": "成功在水桶上設定 CORS 配置： {{.Bucket}}"
+  },
+  {
+    "id": "Successfully stored your Service Instance ID / CRN.",
+    "translation": "成功儲存您的服務 Instance ID / CRN。"
+  },
+  {
+    "id": "Select the Service Instance ID / CRN",
+    "translation": "選擇服務 Instance ID / CRN"
+  },
+  {
+    "id": "Service Instance ID / CRN:",
+    "translation": "服務 Instance ID / CRN："
+  },
+  {
+    "id": "Unable to store Service Instance ID / CRN.",
+    "translation": "無法儲存服務 Instance ID / CRN。"
+  },
+  {
+    "id": "Successfully switched to {{.Auth}}-based authentication. The program will access your Cloud Object Storage account using your {{.Auth}} Credentials.",
+    "translation": "成功切換到 {{.Auth}}-based 身份驗證。 程式會使用您的 {{.Auth}} 認證存取您的 Cloud Object Storage 帳戶。"
+  },
+  {
+    "id": "Successfully updated regions endpoint URL to {{.URL}}.",
+    "translation": "成功更新區域端點 URL 至 {{.URL}}。"
+  },
+  {
+    "id": "Successfully updated service endpoint URL.",
+    "translation": "成功更新服務端點 URL。"
+  },
+  {
+    "id": "Successfully uploaded '{{.Key}}' to bucket '{{.Bucket}}'.",
+    "translation": "成功上傳 '{{.Key}} 「 到水桶 」{{.Bucket}}'。"
+  },
+  {
+    "id": "Successfully uploaded object '{{.Key}}' to bucket '{{.Bucket}}'.",
+    "translation": "成功上傳物件 '{{.Key}} 「 至儲存桶 」{{.Bucket}}'。"
+  },
+  {
+    "id": "Switch between HMAC and IAM authentication",
+    "translation": "在 HMAC 和 IAM 認證之間切換"
+  },
+  {
+    "id": "Switch between VHost and Path URL style",
+    "translation": "在 VHost 與路徑 URL 風格之間切換"
+  },
+  {
+    "id": "Tags: ",
+    "translation": "標籤： "
+  },
+  {
+    "id": "The CORS configuration of ",
+    "translation": "的 CORS 設定 "
+  },
+  {
+    "id": "The `ALGORITHM` and `SIZE` to use with the encryption key stored by using key protect.",
+    "translation": "使用 key protect 儲存的加密金鑰所要使用的 `ALGORITHM` 和 `SIZE`。"
+  },
+  {
+    "id": "The `Boolean` is not present in listV2 by default, if you want to return owner field with each key in the result then set the fetch owner field to true.",
+    "translation": "`Boolean` 預設不存在於 listV2 ，如果您想要在結果中的每個 key 都回傳所有者欄位，請將 fetch 所有者欄位設定為 true。"
+  },
+  {
+    "id": "The `CUSTOMERROOTKEYCRN` of the KMS  root key associated with the bucket for data encryption.",
+    "translation": "與資料桶相關的 KMS 根金鑰的「CUSTOMERROOTKEYCRN」，用於資料加密。"
+  },
+  {
+    "id": "The `KEY` (OBJECT_NAME) of the object.",
+    "translation": "物件的 `KEY` (OBJECT_NAME)。"
+  },
+  {
+    "id": "The `LANGUAGE` the content is in.",
+    "translation": "內容的 `LANGUAGE` 語言。"
+  },
+  {
+    "id": "The `PATH` to the file to upload.",
+    "translation": "要上傳檔案的 `PATH`。"
+  },
+  {
+    "id": "The `REGION` where the bucket is present. If this flag is not provided, the program will use the default option specified in config.",
+    "translation": "水桶所在的 `REGION` 區域。 如果未提供此標誌，程式會使用 config 中指定的預設選項。"
+  },
+  {
+    "id": "The `SIZE` of each page to get in the service call. This does not affect the number of items returned in the command's output. Setting a smaller page size results in more calls to the COS service, retrieving fewer items in each call. This can help prevent the service calls from timing out.",
+    "translation": "服務呼叫中要取得的每個頁面的 `SIZE`。 這不會影響命令輸出中返回的項數。 設定較小的頁面大小會導致更多的 COS 服務呼叫，而每次呼叫擷取的項目較少。 這有助於防止服務呼叫超時。"
+  },
+  {
+    "id": "The base64-encoded 128-bit `MD5` digest of the data.",
+    "translation": "base64-encoded 128 位元 `MD5` 資料摘要。"
+  },
+  {
+    "id": "The buffer `SIZE` (in bytes) to use when buffering data into chunks and ending them as parts to S3. The minimum allowed part size is 5MB.",
+    "translation": "緩衝區 `SIZE`（以位元組為單位元組），用來將資料緩衝成小塊，並作為 S3 的一部分結束。 允許的最小零件尺寸為 5MB。"
+  },
+  {
+    "id": "The download destination '{{.Location}}' is a directory.",
+    "translation": "下載目的地 '{{.Location}}' 是一個目錄。"
+  },
+  {
+    "id": "The lifecycle configuration was not found",
+    "translation": "未找到生命週期組態"
+  },
+  {
+    "id": "The name (`BUCKET_NAME`) of the bucket.",
+    "translation": "水桶的名稱 (`BUCKET_NAME`)。"
+  },
+  {
+    "id": "The name (`CLASS_NAME`) of the Class.",
+    "translation": "類別的名稱 (`CLASS_NAME`)。"
+  },
+  {
+    "id": "The number of goroutines to spin up in parallel per call to Upload when sending parts. Default value is 5.",
+    "translation": "傳送零件時，每次呼叫 Upload 並行啟動的 goroutines 數量。 預設值為 5。"
+  },
+  {
+    "id": "The object version identifier",
+    "translation": "物件版本識別碼"
+  },
+  {
+    "id": "The public access block configuration was not found.",
+    "translation": "未找到公共存取區塊配置。"
+  },
+  {
+    "id": "The range of bytes to copy from the source object. The range value must use the form bytes=first-last, where the first and last are the zero-based byte offsets to copy. For example, bytes=0-9 indicates that you want to copy the first ten bytes of the source. You can copy a range only if the source object is greater than 5 MB.",
+    "translation": "要從來源物件複製的位元組範圍。 範圍值必須使用 bytes=first-last 的形式，其中 first 和 last 是要複製的基於零的位元組偏移量。 例如， bytes=0-9 表示要複製原始碼的前十個位元組。 只有當來源物件大於 5 MB 時，才能複製範圍。"
+  },
+  {
+    "id": "The replication configuration was not found",
+    "translation": "未找到複製組態"
+  },
+  {
+    "id": "The requested bucket name is not available. The bucket namespace is shared by all users of the system. Select a different name and try again.",
+    "translation": "請求的水桶名稱不可用。 系統的所有使用者都可以共用水桶命名空間。 選擇不同的名稱再試一次。"
+  },
+  {
+    "id": "The specified bucket does not have website configuration.",
+    "translation": "指定的水桶沒有網站設定。"
+  },
+  {
+    "id": "The specified bucket is not empty. Delete all the files in the bucket, then try again.",
+    "translation": "指定的水桶不是空的。 刪除水桶中的所有檔案，然後再試一次。"
+  },
+  {
+    "id": "The specified bucket name is invalid. Bucket names must start and end in alphanumeric characters (from 3 to 63) and are limited to lowercase, numbers, non-consecutive dots, and hyphens.",
+    "translation": "指定的水桶名稱無效。 水桶名稱必須以字母數位字元（從 3 到 63）開始和結束，並限於小寫、數字、非連續點和連字符。"
+  },
+  {
+    "id": "The specified bucket was not found in your IBM Cloud account. This may be because you provided the wrong region. Provide the bucket's correct region and try again.",
+    "translation": "在您的 IBM Cloud 帳戶中找不到指定的水桶。 這可能是因為您提供了錯誤的區域。 提供水桶的正確區域，然後再試一次。"
+  },
+  {
+    "id": "The specified download location does not exist on your system. Try again with a valid download path.",
+    "translation": "您的系統上不存在指定的下載位置。 請使用有效的下載路徑再試一次。"
+  },
+  {
+    "id": "The specified download location is not valid. Try again with a valid download path.",
+    "translation": "指定的下載位置無效。 請使用有效的下載路徑再試一次。"
+  },
+  {
+    "id": "The specified key does not exist.",
+    "translation": "指定的鍵不存在。"
+  },
+  {
+    "id": "The total `NUMBER` of items to return in the command's output.",
+    "translation": "在指令輸出中要回傳的項目總數 `NUMBER`。"
+  },
+  {
+    "id": "The value in flag '--%s' is invalid",
+    "translation": "標誌 '--%s' 中的值無效"
+  },
+  {
+    "id": "This option skips confirmation prompts and executes the operation.",
+    "translation": "此選項跳過確認提示並執行操作。"
+  },
+  {
+    "id": "To retrieve the next set of buckets, use this value marker for the next command: ",
+    "translation": "若要擷取下一組儲存桶，請在下一個指令中使用此值標記： "
+  },
+  {
+    "id": "To retrieve the next set of multipart uploads, use the following markers in the next command:",
+    "translation": "若要擷取下一組多部分上傳，請在下一個指令中使用下列標記："
+  },
+  {
+    "id": "To retrieve the next set of objects use the following values for the next command: ",
+    "translation": "若要擷取下一組物件，請對 next 指令使用下列值： "
+  },
+  {
+    "id": "To retrieve the next set of objects use this Key as your --marker for the next command: ",
+    "translation": "要擷取下一組物件，請使用此 Key 作為下一個指令的 --marker ： "
+  },
+  {
+    "id": "To retrieve the next set of objects use this Token as your --starting-token for the next command: ",
+    "translation": "要擷取下一組物件，請使用此 Token 作為下一個指令的 --starting-token ： "
+  },
+  {
+    "id": "To retrieve the next set of parts, use this marker as your part-number-marker for the next command: ",
+    "translation": "若要擷取下一組零件，請將此標記作為下一個指令的零件號碼標記： "
+  },
+  {
+    "id": "Together with another listing parameter, specifies the key from which to start listing",
+    "translation": "連同另一個列名參數，指定從哪個關鍵開始列名"
+  },
+  {
+    "id": "Together with key-marker, specifies the multipart upload after which listing should begin. If key-marker is not specified, the upload-id-marker parameter is ignored.",
+    "translation": "連同 key-marker，指定多部分上傳之後，列表應該開始。 如果未指定 key-marker，則會忽略 upload-id-marker 參數。"
+  },
+  {
+    "id": "Together with key-marker, specifies the object version from which to start listing object versions in a bucket",
+    "translation": "與 key-marker 一起指定物件版本，從此開始列出資料桶中的物件版本"
+  },
+  {
+    "id": "Try logging in using 'ibmcloud login'.",
+    "translation": "請嘗試使用「ibmcloud login」登入。"
+  },
+  {
+    "id": "URL Style",
+    "translation": "URL 風格"
+  },
+  {
+    "id": "URL `STYLE` can be VHost or Path.",
+    "translation": "URL `STYLE` 可以是 VHost 或 Path。"
+  },
+  {
+    "id": "Unable to clear regions endpoint URL.",
+    "translation": "無法清除區域端點 URL。"
+  },
+  {
+    "id": "Unable to clear service endpoint URL.",
+    "translation": "無法清除服務端點 URL。"
+  },
+  {
+    "id": "Unable to get new Service Instance ID / CRN.",
+    "translation": "無法取得新的服務 Instance ID / CRN。"
+  },
+  {
+    "id": "Unable to load config method.",
+    "translation": "無法載入設定方法。"
+  },
+  {
+    "id": "Unable to load current url style.",
+    "translation": "無法載入目前的 URL 樣式。"
+  },
+  {
+    "id": "Unable to load default download location.",
+    "translation": "無法載入預設下載位置。"
+  },
+  {
+    "id": "Unable to load region.",
+    "translation": "無法載入區域。"
+  },
+  {
+    "id": "Unable to parse URL style.",
+    "translation": "無法解析 URL 樣式。"
+  },
+  {
+    "id": "Unable to parse authentication method.",
+    "translation": "無法解析驗證方法。"
+  },
+  {
+    "id": "Unable to read new Authentication Method.",
+    "translation": "無法讀取新的驗證方法。"
+  },
+  {
+    "id": "Unable to read new URL Style value.",
+    "translation": "無法讀取新的 URL Style 值。"
+  },
+  {
+    "id": "Unable to read new default download location.",
+    "translation": "無法讀取新的預設下載位置。"
+  },
+  {
+    "id": "Unable to read new region.",
+    "translation": "無法讀取新區域。"
+  },
+  {
+    "id": "Unable to save new Service Endpoint URL.",
+    "translation": "無法儲存新的服務端點 URL。"
+  },
+  {
+    "id": "Unable to save new region.",
+    "translation": "無法儲存新區域。"
+  },
+  {
+    "id": "Unable to save new regions endpoint URL.",
+    "translation": "無法儲存新的區域端點 URL。"
+  },
+  {
+    "id": "Unable to store Access key.",
+    "translation": "無法儲存存取金鑰。"
+  },
+  {
+    "id": "Unable to store Secret key.",
+    "translation": "無法儲存秘密金鑰。"
+  },
+  {
+    "id": "Unable to store new download location.",
+    "translation": "無法儲存新的下載位置。"
+  },
+  {
+    "id": "Unable to switch URL style.",
+    "translation": "無法切換 URL 風格。"
+  },
+  {
+    "id": "Unable to switch authentication method.",
+    "translation": "無法切換認證方法。"
+  },
+  {
+    "id": "Upload `ID` identifying the multipart upload.",
+    "translation": "識別多部分上傳的上傳 `ID`。"
+  },
+  {
+    "id": "Upload a part",
+    "translation": "上傳零件"
+  },
+  {
+    "id": "Upload a part by copying data from an existing object",
+    "translation": "從現有物件複製資料上傳零件"
+  },
+  {
+    "id": "Upload an object to a bucket",
+    "translation": "上傳物件到水桶"
+  },
+  {
+    "id": "Upload an object using a managed multipart transfer",
+    "translation": "使用受管理的多部分傳輸上傳物件"
+  },
+  {
+    "id": "Upload files or directories via Aspera",
+    "translation": "透過下列方式上傳檔案或目錄 Aspera"
+  },
+  {
+    "id": "UploadId",
+    "translation": "UploadId"
+  },
+  {
+    "id": "Uploaded part '{{.part}}' of object '{{.Object}}'.",
+    "translation": "已上傳物件 '{{.Object}} 「 的 」{{.part}}' 部分。"
+  },
+  {
+    "id": "Uploaded part copy '{{.part}}' of object '{{.Object}}'.",
+    "translation": "已上傳物件 '{{.Object}} 「 的部分副本 」{{.part}}'。"
+  },
+  {
+    "id": "Value",
+    "translation": "值"
+  },
+  {
+    "id": "Version ID",
+    "translation": "版本 ID"
+  },
+  {
+    "id": "Version ID Marker: ",
+    "translation": "版本 ID 標記： "
+  },
+  {
+    "id": "Version ID: ",
+    "translation": "版本 ID： "
+  },
+  {
+    "id": "Versioning Configuration",
+    "translation": "版本設定"
+  },
+  {
+    "id": "WARNING: An object with the name '{{.file}}' already exists at '{{.dl}}'.",
+    "translation": "警告：名稱為 '{{.file}} 「 的物件已存在於 」{{.dl}}' 中。"
+  },
+  {
+    "id": "WARNING: This will permanently delete any bucket website configuration from the bucket '{{.Bucket}}'.",
+    "translation": "警告：這將會永久刪除資料桶 '{{.Bucket}}' 中的任何資料桶網站設定。"
+  },
+  {
+    "id": "WARNING: This will permanently delete the bucket '{{.Bucket}}' from your account.",
+    "translation": "警告：這將從您的帳戶中永久刪除資料桶 '{{.Bucket}}'。"
+  },
+  {
+    "id": "WARNING: This will permanently delete the object '{{.Key}}' from the bucket '{{.Bucket}}'.",
+    "translation": "警告：這將會從資料桶 '{{.Bucket}} 「 中永久刪除物件 」{{.Key}}'。"
+  },
+  {
+    "id": "WARNING: You have already stored a Service Instance ID / CRN before.",
+    "translation": "警告：您之前已經儲存過服務 Instance ID / CRN。"
+  },
+  {
+    "id": "Wait until 200 response is received when polling with head-bucket.  It will poll every 5 seconds until a successful state has been reached. This will exit with a return code of 255 after 20 failed checks.",
+    "translation": "使用 head-bucket 輪詢時，請等待收到 200 回應。  它會每 5 秒輪詢一次，直到達到成功狀態為止。 這會在 20 次檢查失敗後，以 255 的回傳代碼退出。"
+  },
+  {
+    "id": "Wait until 200 response is received when polling with head-object.  It will poll every 5 seconds until a successful state has been reached.  This will exit with a return code of 255 after 20 failed checks.",
+    "translation": "使用 head-object 輪詢時，請等待收到 200 回應。  它會每 5 秒輪詢一次，直到達到成功狀態為止。  這會在 20 次檢查失敗後，以 255 的回傳代碼退出。"
+  },
+  {
+    "id": "Wait until 404 response is received when polling with head-bucket.  It will poll every 5 seconds until a successful state has been reached.  This will exit with a return code of 255 after 20 failed checks.",
+    "translation": "使用 head-bucket 輪詢時，請等待收到 404 回應。  它會每 5 秒輪詢一次，直到達到成功狀態為止。  這會在 20 次檢查失敗後，以 255 的回傳代碼退出。"
+  },
+  {
+    "id": "Wait until 404 response is received when polling with head-object.  It will poll every 5 seconds until a successful state has been reached.  This will exit with a return code of 255 after 20 failed checks.",
+    "translation": "使用 head-object 進行輪詢時，請等待收到 404 回應。  它會每 5 秒輪詢一次，直到達到成功狀態為止。  這會在 20 次檢查失敗後，以 255 的回傳代碼退出。"
+  },
+  {
+    "id": "Website Configuration",
+    "translation": "網站設定"
+  },
+  {
+    "id": "Your proposed upload is smaller than the minimum allowed size. File parts must be greater than 5 MB in size, except for the last part.",
+    "translation": "您建議的上傳尺寸小於允許的最小尺寸。 檔案部分的大小必須大於 5 MB，最後一個部分除外。"
+  },
+  {
+    "id": "[Deprecated] Output returned in raw JSON format.",
+    "translation": "[已廢棄] 以原始 JSON 格式傳回的輸出。"
+  },
+  {
+    "id": "`SIZE` of the body in bytes. This parameter is useful when the size of the body cannot be determined automatically.",
+    "translation": "正文的 `SIZE`，以位元組表示。 此參數在無法自動決定本體大小時非常有用。"
+  },
+  {
+    "id": "date (UTC)",
+    "translation": "日期 (UTC)"
+  },
+  {
+    "id": "days",
+    "translation": "天"
+  },
+  {
+    "id": "key",
+    "translation": "關鍵"
+  },
+  {
+    "id": "missing Environment Variable: %s",
+    "translation": "遺失環境變數： %s"
+  },
+  {
+    "id": "no buckets.",
+    "translation": "沒有水桶"
+  },
+  {
+    "id": "no delete markers in bucket '",
+    "translation": "水桶中沒有刪除標記 '"
+  },
+  {
+    "id": "no multipart uploads in bucket '",
+    "translation": "水桶中沒有多部分上傳 '"
+  },
+  {
+    "id": "no noncurrentVersionTransitions in bucket lifecycle configuration",
+    "translation": "水桶生命週期設定中沒有 noncurrentVersionTransitions"
+  },
+  {
+    "id": "no object versions in bucket '",
+    "translation": "水桶中沒有物件版本 '"
+  },
+  {
+    "id": "no objects in bucket '",
+    "translation": "水桶中沒有物件 '"
+  },
+  {
+    "id": "no parts in the multipart upload for '",
+    "translation": "多部件上載中沒有 ' 的部件"
+  },
+  {
+    "id": "no such directory: %s",
+    "translation": "no such directory： %s"
+  },
+  {
+    "id": "no transitions in bucket lifecycle configuration",
+    "translation": "水桶生命週期組態中沒有轉換"
+  },
+  {
+    "id": "noncurrent days",
+    "translation": "非當前日期"
+  },
+  {
+    "id": "storage class",
+    "translation": "儲存類別"
+  },
+  {
+    "id": "unable to install Aspera SDK: %s",
+    "translation": "無法安裝 Aspera SDK ： %s"
+  },
+  {
+    "id": "value",
+    "translation": "值"
+  }
+]
