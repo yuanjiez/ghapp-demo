@@ -1,0 +1,28 @@
+{
+  "services": {
+    "XMLFirewallWizard": "XML 防火墙向导",
+    "ConfigureXMLFirewall": "配置 XML 防火墙",
+    "XMLFwRefObjErr": "为 XML Firewall 创建引用对象时发生错误： ",
+    "FirewallWizard": {
+      "FirewallServiceType": "指定服务类型。",
+      "FirewallStaticBackend": "静态后台",
+      "FirewallLoopback": "环回",
+      "FirewallServiceTypeDesc": "指定服务类型。<ol><li>对于静态后端，将请求转发到具有静态 IP 地址的目标服务器。</li><li>对于环回，响应传入的客户端请求。 请求不会发送到远程服务器。</li></ol>",
+      "FirewallLoopbackDesc": "对于环回，响应传入的客户端请求。 请求不会发送到远程服务器。",
+      "FirewallServerDesc": "提供有关服务器的信息。<ol><li>在服务器地址字段中输入服务器 IP 地址或域名。</li><li>在服务器端口字段中输入服务器端口号。</li><li>当服务器交易需要安全连接时，请单击 \"开 \"并使用 TLS 客户端加密配置文件值列表来选择 TLS 配置文件，以指定连接可用的资源。</li><li>单击下一步。</li></ol>",
+      "FirewallClientDesc": "提供面向客户的界面信息。<ol><li>监控接收到的客户端请求的本地接口。 保留默认值 ( 0.0.0.0 ) 以启用所有活动接口。 要限制到单个接口，请输入特定的本地 IP 地址。</li><li>要监控的本地端口。</li><li>客户端交易需要安全连接时，请单击 \"开\"，然后使用 TLS 服务器加密配置文件值列表选择指定连接可用资源的 TLS 配置文件。</li><li>单击 \"下一步\"。</li></ol>",
+      "FirewallFilterInfo": "只有当您希望 XML 防火墙在模式验证前过滤文档时，才使用此屏幕。 过滤器使用样式表做出接受或拒绝的决定。",
+      "FirewallFilterDesc": "<ul><li>如果不想过滤文档，请单击“下一步”。</li><li>过滤文档。</li><ol><li>单击“开启”并识别过滤样式表。</li><li>当样式表是本地的时，使用<strong>从存储值列表中选择</strong>。 当样式表位于远程资源上时，使用 <strong>过滤器 URL</strong> 字段。</li><li>单击下一步。</li></ol></ul>",
+      "XMLCryptoRequestVerifyDesc": "使用单选按钮指定此 XML 防火墙是验证、解密还是验证并解密客户端请求。<ul><li>on：验证、解密或验证并解密客户端请求。</li><li>off：不验证或解密客户端请求</li></ul>",
+      "XMLCryptoResponseSignEncryptDesc": "使用单选按钮指定此 XML Firewall 是否对服务器响应签名、加密或签名并加密。<ol><li>on：</li><li>，关闭：</li></ol><br/>当 XML Firewall 签名服务器响应时，使用签名密钥值列表选择用于签名服务器响应的私钥，并使用签名证书值列表选择附加到数字签名的匹配公共证书。<br/><br/>当 XML Firewall 加密服务器响应时，使用接收方证书值列表选择用于加密响应的接收方公共证书。",
+      "XMLCryptoLoopbackSignEncryptDesc": "使用单选按钮指定此 XML Firewall 是否对服务器响应签名、加密或签名并加密。<ol><li>on：</li><li>off. 响应不签名或加密：</li></ol><br/>当 XML Firewall 签署请求时，使用签署密钥值列表选择用于签署服务器请求的私钥，并使用签署证书值列表选择附加到数字签名的匹配公共证书。<br/><br/>当 XML Firewall 加密请求时，使用接收方证书值列表选择接收方的公共证书来加密请求。",
+      "HelpSection": "帮助部分",
+      "Categories": "类别",
+      "WizardType": "向导类型",
+      "HTTP10": "HTTP 1.0",
+      "HTTP11": "HTTP 1.1",
+      "DictProtectAAAPolicy": "字典保护 AAA 政策",
+      "anewline": "添加新行"
+    }
+  }
+}
