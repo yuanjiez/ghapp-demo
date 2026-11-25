@@ -1,0 +1,11 @@
+{
+  "colors": [
+    "红色",
+    "蓝色",
+    "黄色",
+    "橙色"
+  ],
+  "some_text": "只是一串普通的字符串",
+  "another.text": "又一个普通的字符串",
+  "phoneTable.searchLabel": "搜索电话连接"
+}

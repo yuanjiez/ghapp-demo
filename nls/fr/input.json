@@ -1,0 +1,10 @@
+{
+  "colors": [
+    "rouge",
+    "bleu",
+    "jaune",
+    "orange"
+  ],
+  "some_text": "Une simple ficelle",
+  "another.text": "Une autre vieille ficelle"
+}
