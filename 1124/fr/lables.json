@@ -1,0 +1,11 @@
+{
+  "colors": [
+    "rouge",
+    "bleu",
+    "jaune",
+    "orange"
+  ],
+  "some_text": "Juste une simple chaîne de caractères",
+  "another.text": "Encore une simple chaîne de caractères",
+  "phoneTable.searchLabel": "Rechercher les connexions téléphoniques"
+}
